@@ -8,3 +8,6 @@ pip install datasets==2.11
 pip install wandb
 pip install scikit-learn
 pip install openai
+pip install opentelemetry-distro
+pip install opentelemetry-instrumentation-openai
+pip install pymongo

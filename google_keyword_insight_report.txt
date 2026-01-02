@@ -1,0 +1,4409 @@
+================================================================================
+GOOGLE KEYWORD INSIGHT ANALYSIS REPORT
+Domain: simplybeyond.dk
+Location: Denmark (DK)
+Language: Danish (da)
+Generated: 2026-01-02 15:53:44
+================================================================================
+
+ANALYSIS SUMMARY
+--------------------------------------------------------------------------------
+Total Analyses Performed: 17
+Successful: 17
+Failed: 0
+
+KEYWORDS ANALYZED
+--------------------------------------------------------------------------------
+1. silke pudebetræk
+2. silke sovemaske
+3. silke bonnet
+4. heatless curls
+5. silke
+6. mulberry silke
+7. silke sengetøj
+
+DETAILED RESULTS
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Analysis: keyword_suggestions_silke pudebetræk
+================================================================================
+
+[
+  {
+    "text": "silke pudebetræk",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "silke hovedpudebetræk",
+    "volume": 720,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.48084,
+    "high_bid": 1.359032,
+    "trend": 7.62
+  },
+  {
+    "text": "silke pudebetræk jysk",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.487355,
+    "high_bid": 1.413153,
+    "trend": 2.16
+  },
+  {
+    "text": "silkepudebetræk",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.699219,
+    "high_bid": 1.988718,
+    "trend": 3.95
+  },
+  {
+    "text": "pudebetræk silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "hovedpudebetræk silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.523343,
+    "high_bid": 1.402113,
+    "trend": 6.2
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.599779,
+    "high_bid": 1.499061,
+    "trend": 27.58
+  },
+  {
+    "text": "pudebetræk i silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "silk pudebetræk",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.429731,
+    "high_bid": 1.241387,
+    "trend": 0.61
+  },
+  {
+    "text": "silke pudebetræk tilbud",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.514481,
+    "high_bid": 1.552928,
+    "trend": 7.62
+  },
+  {
+    "text": "save my face pudebetræk silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.534232,
+    "high_bid": 1.132254,
+    "trend": 3.9
+  },
+  {
+    "text": "ægte silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.539225,
+    "high_bid": 1.361902,
+    "trend": 27.27
+  },
+  {
+    "text": "silke pudebetræk ikea",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.403002,
+    "high_bid": 1.311347,
+    "trend": -10.84
+  },
+  {
+    "text": "silke pudebetræk 60x63",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.52944,
+    "high_bid": 1.368341,
+    "trend": 17.32
+  },
+  {
+    "text": "silke hovedpudebetræk tilbud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570802,
+    "high_bid": 1.470101,
+    "trend": 16.67
+  },
+  {
+    "text": "hovedpudebetræk i silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.605487,
+    "high_bid": 1.356731,
+    "trend": 29.09
+  },
+  {
+    "text": "bedste silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.438064,
+    "high_bid": 1.372451,
+    "trend": 0.87
+  },
+  {
+    "text": "silke pudebetræk matas",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.314961,
+    "high_bid": 1.326139,
+    "trend": 2.38
+  },
+  {
+    "text": "silke pudebetræk 60x70",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.532373,
+    "high_bid": 1.234611,
+    "trend": 15.15
+  },
+  {
+    "text": "100 silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.495609,
+    "high_bid": 1.55064,
+    "trend": 22.73
+  },
+  {
+    "text": "bambus silke pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.51303,
+    "high_bid": 1.455647,
+    "trend": 4.55
+  },
+  {
+    "text": "silke pudebetræk sort",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570398,
+    "high_bid": 1.552964,
+    "trend": 4.55
+  },
+  {
+    "text": "silke pudebetræk pricerunner",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk hvid",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.604036,
+    "high_bid": 1.472973,
+    "trend": 31.31
+  },
+  {
+    "text": "silke pudebetræk hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.378981,
+    "high_bid": 1.191151,
+    "trend": 0.0
+  },
+  {
+    "text": "jysk silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 96,
+    "low_bid": 0.432799,
+    "high_bid": 1.305725,
+    "trend": 11.52
+  },
+  {
+    "text": "silke satin pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke satin hovedpudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "bambus eller silke pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.315064,
+    "high_bid": 1.550688,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk 40x40",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.547014,
+    "high_bid": 1.259588,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk hud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_silke sovemaske
+================================================================================
+
+[
+  {
+    "text": "silke sovemaske",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovemaske silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovemaske i silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovebriller silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.486134,
+    "high_bid": 1.140238,
+    "trend": 22.12
+  },
+  {
+    "text": "natbriller silke",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.479587,
+    "high_bid": 1.525763,
+    "trend": 18.9
+  },
+  {
+    "text": "silke natbriller",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.420955,
+    "high_bid": 1.27346,
+    "trend": 9.28
+  },
+  {
+    "text": "sovemasker silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_silke bonnet
+================================================================================
+
+[
+  {
+    "text": "silke bonnet",
+    "volume": 1600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.418452,
+    "high_bid": 1.06843,
+    "trend": 7.74
+  },
+  {
+    "text": "sovehætte silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.406078,
+    "high_bid": 1.234174,
+    "trend": 0.8
+  },
+  {
+    "text": "silk bonnet matas",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.437703,
+    "high_bid": 1.201002,
+    "trend": -3.68
+  },
+  {
+    "text": "bonnet silke",
+    "volume": 590,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.417343,
+    "high_bid": 1.038995,
+    "trend": -2.71
+  },
+  {
+    "text": "silke hår bonnet",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.396269,
+    "high_bid": 1.033588,
+    "trend": 7.98
+  },
+  {
+    "text": "silke bonnet hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.468984,
+    "high_bid": 1.085389,
+    "trend": 0.0
+  },
+  {
+    "text": "silkebonnet",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.393581,
+    "high_bid": 1.141751,
+    "trend": -0.05
+  },
+  {
+    "text": "silk hår bonnet",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_heatless curls
+================================================================================
+
+[
+  {
+    "text": "heatless curls",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.302859,
+    "high_bid": 0.856793,
+    "trend": -2.72
+  },
+  {
+    "text": "heatless curls silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.38,
+    "high_bid": 1.37,
+    "trend": 13.03
+  },
+  {
+    "text": "cillouettes curl band",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "curling wrap kit",
+    "volume": 0,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "heatless curls søstrene grene",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -4.55
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_silke
+================================================================================
+
+[
+  {
+    "text": "silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 97,
+    "low_bid": 0.42,
+    "high_bid": 1.900322,
+    "trend": 5.21
+  },
+  {
+    "text": "silkegarn",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.192471,
+    "high_bid": 0.632449,
+    "trend": 5.95
+  },
+  {
+    "text": "kidsilk",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.199236,
+    "high_bid": 0.537,
+    "trend": 4.48
+  },
+  {
+    "text": "sandnes alpakka silke",
+    "volume": 320,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.20719,
+    "high_bid": 0.598696,
+    "trend": 3.04
+  },
+  {
+    "text": "silke mohair",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.215841,
+    "high_bid": 0.498722,
+    "trend": 16.03
+  },
+  {
+    "text": "silke metervare",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.088408,
+    "high_bid": 0.619353,
+    "trend": 4.97
+  },
+  {
+    "text": "alpakka silke sandnes tilbud",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.155213,
+    "high_bid": 0.535907,
+    "trend": 12.66
+  },
+  {
+    "text": "silkekimono",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.401864,
+    "high_bid": 1.350622,
+    "trend": 3.24
+  },
+  {
+    "text": "isager jensen yarn",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.074069,
+    "high_bid": 0.406251,
+    "trend": 10.94
+  },
+  {
+    "text": "silkestof",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 98,
+    "low_bid": 0.141731,
+    "high_bid": 0.66244,
+    "trend": 19.63
+  },
+  {
+    "text": "kidsilk haze rowan",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 2.73
+  },
+  {
+    "text": "tibet fra cewec",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 13.53
+  },
+  {
+    "text": "silkegarn tilbud",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.184291,
+    "high_bid": 0.569858,
+    "trend": 26.33
+  },
+  {
+    "text": "grøn silkeskjorte",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.332121,
+    "high_bid": 0.722791,
+    "trend": 19.71
+  },
+  {
+    "text": "silketråd",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 32.75
+  },
+  {
+    "text": "drops kidsilk tilbud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 10.91
+  },
+  {
+    "text": "drops silke alpaca",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.256458,
+    "high_bid": 0.618459,
+    "trend": 14.39
+  },
+  {
+    "text": "silkestoffer",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.1676,
+    "high_bid": 0.590135,
+    "trend": 22.12
+  },
+  {
+    "text": "morbærsilke",
+    "volume": 140,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.416592,
+    "high_bid": 1.401303,
+    "trend": 1.05
+  },
+  {
+    "text": "mohair silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.146019,
+    "high_bid": 0.440304,
+    "trend": 12.12
+  },
+  {
+    "text": "thaisilke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 5.23
+  },
+  {
+    "text": "silketørklæde 90x90",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.356433,
+    "high_bid": 1.151521,
+    "trend": 15.7
+  },
+  {
+    "text": "silke mohair tilbud",
+    "volume": 480,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.191174,
+    "high_bid": 0.485667,
+    "trend": 8.24
+  },
+  {
+    "text": "broderigarn silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "alpaca silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.27994,
+    "high_bid": 0.929028,
+    "trend": 23.48
+  },
+  {
+    "text": "håndfarvet silkegarn",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.244241,
+    "high_bid": 0.700089,
+    "trend": 23.48
+  },
+  {
+    "text": "følgetråd silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 19.7
+  },
+  {
+    "text": "silkestof metervare",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 29.24
+  },
+  {
+    "text": "silkekimonoer",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.401864,
+    "high_bid": 1.350622,
+    "trend": 3.24
+  },
+  {
+    "text": "sandnes alpakka silke tilbud",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.220495,
+    "high_bid": 0.654629,
+    "trend": 10.61
+  },
+  {
+    "text": "kamma permin tilbud",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 5.0
+  },
+  {
+    "text": "silkevelour",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 1.82
+  },
+  {
+    "text": "lilla mohair",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "thai silke metervare",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 5.41
+  },
+  {
+    "text": "100 silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 45.27
+  },
+  {
+    "text": "100 silkegarn",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "albot silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.198882,
+    "high_bid": 1.435329,
+    "trend": 18.18
+  },
+  {
+    "text": "alpaca silke drops",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 13.64
+  },
+  {
+    "text": "alpacasilk",
+    "volume": 320,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.270768,
+    "high_bid": 0.706196,
+    "trend": 8.27
+  },
+  {
+    "text": "anisia cewec",
+    "volume": 10,
+    "competition_level": "MEDIUM",
+    "competition_index": 57,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "babysilk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "babysilk fra du store alpakka",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "beige silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 13.64
+  },
+  {
+    "text": "blå silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 21.21
+  },
+  {
+    "text": "bourette silke",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.104886,
+    "high_bid": 0.543889,
+    "trend": 6.75
+  },
+  {
+    "text": "drops alpaca silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.186734,
+    "high_bid": 0.477201,
+    "trend": 15.15
+  },
+  {
+    "text": "drops silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.236673,
+    "high_bid": 0.520805,
+    "trend": 9.09
+  },
+  {
+    "text": "drops silke mohair",
+    "volume": 480,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.183622,
+    "high_bid": 0.461869,
+    "trend": 7.4
+  },
+  {
+    "text": "dupion silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 25.61
+  },
+  {
+    "text": "essentials mohair rico",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "fed silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "gennemsigtigt silkestof",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "glat silkestof",
+    "volume": 10,
+    "competition_level": "LOW",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "grå silkeskjorte",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.299059,
+    "high_bid": 0.604165,
+    "trend": 14.5
+  },
+  {
+    "text": "gul silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 2.16
+  },
+  {
+    "text": "habotai silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 13.64
+  },
+  {
+    "text": "hvid silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 29.55
+  },
+  {
+    "text": "indisk silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 83,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "indisk silkestof",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "isager silke mohair",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.103787,
+    "high_bid": 0.44473,
+    "trend": 4.28
+  },
+  {
+    "text": "japansk silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "karen noe japonica silke",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "kfo silke",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "kidsilk rowan",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "kinesisk silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 28.03
+  },
+  {
+    "text": "knitting for olive silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 15.91
+  },
+  {
+    "text": "laines du nord alpaca brushed",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "lilla silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 33.33
+  },
+  {
+    "text": "lærredsvævet silkestof",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mat silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "merinosilk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.289285,
+    "high_bid": 0.545726,
+    "trend": 12.42
+  },
+  {
+    "text": "metervare silke",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.088408,
+    "high_bid": 0.619353,
+    "trend": 4.97
+  },
+  {
+    "text": "morbær silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 1.52
+  },
+  {
+    "text": "morbærsilke underkjole",
+    "volume": 0,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mønstret silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mønstret silkestof",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "oslohuen mohair",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 15.53
+  },
+  {
+    "text": "pagoda silke",
+    "volume": 10,
+    "competition_level": "LOW",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "papyrus fra cewec",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "petiteknit oslohuen mohair",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -4.55
+  },
+  {
+    "text": "polyester silke",
+    "volume": 10,
+    "competition_level": "LOW",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "pure silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 75,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "rå silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "rød silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 76.26
+  },
+  {
+    "text": "sandnes alpakka silke pricerunner",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.046562,
+    "high_bid": 0.465143,
+    "trend": 11.52
+  },
+  {
+    "text": "sandnes silke mohair",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.230366,
+    "high_bid": 0.370702,
+    "trend": 9.09
+  },
+  {
+    "text": "sandvasket silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 6.06
+  },
+  {
+    "text": "sandvasket silke metervare",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 13.46
+  },
+  {
+    "text": "seta silke",
+    "volume": 10,
+    "competition_level": "LOW",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "silke alpaca",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.304188,
+    "high_bid": 0.931352,
+    "trend": 18.18
+  },
+  {
+    "text": "silke alpaca drops",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.256458,
+    "high_bid": 0.618459,
+    "trend": 14.39
+  },
+  {
+    "text": "silke broderigarn",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 18.18
+  },
+  {
+    "text": "silke jersey",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "silke mohair fra isager",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.179551,
+    "high_bid": 0.580822,
+    "trend": 7.96
+  },
+  {
+    "text": "silke mohair isager",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.161904,
+    "high_bid": 0.566634,
+    "trend": 6.27
+  },
+  {
+    "text": "silke mohair sandnes",
+    "volume": 210,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.141297,
+    "high_bid": 0.35,
+    "trend": 1.67
+  },
+  {
+    "text": "silke pris",
+    "volume": 10,
+    "competition_level": "MEDIUM",
+    "competition_index": 43,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke sort",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.142046,
+    "high_bid": 0.461707,
+    "trend": 7.58
+  },
+  {
+    "text": "silke strikkegarn",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.267378,
+    "high_bid": 0.523361,
+    "trend": 4.55
+  },
+  {
+    "text": "silkealpakka",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silkechiffon",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.3,
+    "high_bid": 0.797755,
+    "trend": 14.17
+  },
+  {
+    "text": "silkejersey",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 12.12
+  },
+  {
+    "text": "silkeorganza",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.246769,
+    "high_bid": 1.008474,
+    "trend": 3.16
+  },
+  {
+    "text": "silkesatin",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 30.3
+  },
+  {
+    "text": "silkestof med mønster",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 4.55
+  },
+  {
+    "text": "silkeuld",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.273321,
+    "high_bid": 0.990814,
+    "trend": 18.18
+  },
+  {
+    "text": "silkwool",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 34.7
+  },
+  {
+    "text": "silkwool garnudsalg",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "sort silke",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.305047,
+    "high_bid": 0.67765,
+    "trend": -0.85
+  },
+  {
+    "text": "strikkeopskrift silkegarn",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 18.18
+  },
+  {
+    "text": "tekstilfarve silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.426667,
+    "high_bid": 1.074314,
+    "trend": 21.21
+  },
+  {
+    "text": "thai silke",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.35
+  },
+  {
+    "text": "tykt silkestof",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 9.09
+  },
+  {
+    "text": "tynd silke mohair",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.15134,
+    "high_bid": 0.398897,
+    "trend": 18.18
+  },
+  {
+    "text": "tyndt silkegarn",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "tyndt silkestof",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 69,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "vasket silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 86,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "vintage silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 20.45
+  },
+  {
+    "text": "wadils silkemohair",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.178473,
+    "high_bid": 1.01534,
+    "trend": 13.64
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_mulberry silke
+================================================================================
+
+[
+  {
+    "text": "mulberry silke",
+    "volume": 210,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.647784,
+    "high_bid": 1.547365,
+    "trend": -1.99
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.599779,
+    "high_bid": 1.499061,
+    "trend": 27.58
+  },
+  {
+    "text": "silkedyne 140x220",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.778059,
+    "high_bid": 3.586851,
+    "trend": 8.23
+  },
+  {
+    "text": "mulberry silkedyne",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.661773,
+    "high_bid": 2.557508,
+    "trend": 9.0
+  },
+  {
+    "text": "borg living comfort silkedyne",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.488197,
+    "high_bid": 4.795664,
+    "trend": 0.0
+  },
+  {
+    "text": "dyne mulberry silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.410589,
+    "high_bid": 1.422291,
+    "trend": 0.0
+  },
+  {
+    "text": "langfibret mulberry silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mulberry dyne",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mulberry silkedyne bilka",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.495921,
+    "high_bid": 2.765216,
+    "trend": 9.09
+  },
+  {
+    "text": "mulberry silkedyne føtex",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "mulberrysilke",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.504162,
+    "high_bid": 1.952555,
+    "trend": 0.26
+  },
+  {
+    "text": "silkedyne mulberry",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silkedyne mulberry silke",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537709,
+    "high_bid": 2.309476,
+    "trend": -2.27
+  }
+]
+
+================================================================================
+Analysis: keyword_suggestions_silke sengetøj
+================================================================================
+
+[
+  {
+    "text": "silke sengetøj",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.442739,
+    "high_bid": 1.400506,
+    "trend": 1.55
+  },
+  {
+    "text": "silkesengetøj",
+    "volume": 320,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.488007,
+    "high_bid": 1.495884,
+    "trend": 6.48
+  },
+  {
+    "text": "sengetøj silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.442739,
+    "high_bid": 1.400506,
+    "trend": 1.55
+  },
+  {
+    "text": "silke sengetøj jysk",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.287117,
+    "high_bid": 1.166303,
+    "trend": 1.54
+  },
+  {
+    "text": "silke dynebetræk",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.530998,
+    "high_bid": 1.422167,
+    "trend": 2.69
+  },
+  {
+    "text": "silke sengetøj tilbud",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.56,
+    "high_bid": 2.239041,
+    "trend": 12.11
+  },
+  {
+    "text": "sengetøj i silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.442739,
+    "high_bid": 1.400506,
+    "trend": 1.55
+  },
+  {
+    "text": "silke sengetøj 200x220",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.574966,
+    "high_bid": 1.512622,
+    "trend": 7.9
+  },
+  {
+    "text": "silke sengetøj dobbeltdyne",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.492771,
+    "high_bid": 1.492873,
+    "trend": 17.58
+  },
+  {
+    "text": "silke sengetøj 140x220",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.645191,
+    "high_bid": 1.651164,
+    "trend": 12.72
+  },
+  {
+    "text": "silk sengetøj",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.43095,
+    "high_bid": 1.376355,
+    "trend": 7.27
+  },
+  {
+    "text": "silke sengetøj magasin",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.409471,
+    "high_bid": 1.786577,
+    "trend": 2.77
+  },
+  {
+    "text": "silke sengetøj ikea",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.599121,
+    "high_bid": 2.349706,
+    "trend": -4.98
+  },
+  {
+    "text": "sengetøj økologisk",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.529727,
+    "high_bid": 1.807579,
+    "trend": 4.73
+  },
+  {
+    "text": "mulberry silke sengetøj",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.637206,
+    "high_bid": 1.747585,
+    "trend": 29.65
+  },
+  {
+    "text": "bambus silke sengetøj",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.576136,
+    "high_bid": 2.38694,
+    "trend": 15.15
+  },
+  {
+    "text": "silke dynebetræk tilbud",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.508839,
+    "high_bid": 1.442012,
+    "trend": 9.09
+  },
+  {
+    "text": "silke sengetøj 140x200",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.519945,
+    "high_bid": 1.702971,
+    "trend": 17.99
+  },
+  {
+    "text": "sengetøj 220x200",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.299941,
+    "high_bid": 1.790147,
+    "trend": 8.27
+  },
+  {
+    "text": "dynebetræk silke",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.530998,
+    "high_bid": 1.422167,
+    "trend": 2.69
+  },
+  {
+    "text": "silke satin sengetøj",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.664533,
+    "high_bid": 1.903702,
+    "trend": -1.62
+  },
+  {
+    "text": "sengelinned silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.657794,
+    "high_bid": 1.861661,
+    "trend": 9.85
+  },
+  {
+    "text": "silke sengetøj 240x220",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.534875,
+    "high_bid": 1.552711,
+    "trend": 9.09
+  },
+  {
+    "text": "joop sengetøj 140x220",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.436793,
+    "high_bid": 1.160194,
+    "trend": 19.7
+  },
+  {
+    "text": "silke sengelinned",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.657794,
+    "high_bid": 1.861661,
+    "trend": 9.85
+  },
+  {
+    "text": "sengetøj silke satin",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.55757,
+    "high_bid": 1.901603,
+    "trend": 3.03
+  },
+  {
+    "text": "hvidt silke sengetøj",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -4.55
+  },
+  {
+    "text": "silke sengebetræk",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.462054,
+    "high_bid": 1.410518,
+    "trend": 18.94
+  },
+  {
+    "text": "silke sengetøj hvid",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.612692,
+    "high_bid": 1.552952,
+    "trend": 18.18
+  },
+  {
+    "text": "silke sengetøj bilka",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke satin sengetøj jysk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.159127,
+    "high_bid": 0.827016,
+    "trend": -16.77
+  },
+  {
+    "text": "sengetøj flora danica",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.521299,
+    "high_bid": 1.843097,
+    "trend": 15.15
+  },
+  {
+    "text": "silke satin hovedpudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke sengetøj udsalg",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 86,
+    "low_bid": 0.315013,
+    "high_bid": 0.760955,
+    "trend": 0.0
+  },
+  {
+    "text": "lyserødt silke sengetøj",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -4.55
+  },
+  {
+    "text": "satin silke sengetøj",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.447773,
+    "high_bid": 1.251067,
+    "trend": 4.55
+  },
+  {
+    "text": "silkesengelinned",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.540261,
+    "high_bid": 1.482058,
+    "trend": 0.0
+  },
+  {
+    "text": "silkesengetøj tilbud",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.56,
+    "high_bid": 2.239041,
+    "trend": 12.11
+  },
+  {
+    "text": "sødahl sengetøj common",
+    "volume": 10,
+    "competition_level": "UNSPECIFIED",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -9.09
+  },
+  {
+    "text": "ternet sengetøj juna",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: url_keywords
+================================================================================
+
+[
+  {
+    "text": "sovemaske silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "silke pudebetræk",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "silke sovemaske",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "silke hovedpudebetræk",
+    "volume": 720,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.48084,
+    "high_bid": 1.359032,
+    "trend": 7.62
+  },
+  {
+    "text": "pudebetræk silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "hovedpudebetræk silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.523343,
+    "high_bid": 1.402113,
+    "trend": 6.2
+  },
+  {
+    "text": "silke bonnet",
+    "volume": 1600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.418452,
+    "high_bid": 1.06843,
+    "trend": 7.74
+  },
+  {
+    "text": "mulberry silke",
+    "volume": 210,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.647784,
+    "high_bid": 1.547365,
+    "trend": -1.99
+  },
+  {
+    "text": "silke tørklæde",
+    "volume": 2400,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.311979,
+    "high_bid": 1.057593,
+    "trend": 7.5
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.599779,
+    "high_bid": 1.499061,
+    "trend": 27.58
+  },
+  {
+    "text": "sovemaske i silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "pudebetræk i silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "silke pudebetræk tilbud",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.514481,
+    "high_bid": 1.552928,
+    "trend": 7.62
+  },
+  {
+    "text": "ægte silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.539225,
+    "high_bid": 1.361902,
+    "trend": 27.27
+  },
+  {
+    "text": "silke hovedpudebetræk tilbud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570802,
+    "high_bid": 1.470101,
+    "trend": 16.67
+  },
+  {
+    "text": "bedste silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.438064,
+    "high_bid": 1.372451,
+    "trend": 0.87
+  },
+  {
+    "text": "hovedpudebetræk i silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.605487,
+    "high_bid": 1.356731,
+    "trend": 29.09
+  },
+  {
+    "text": "luksus sovemaske",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.494103,
+    "high_bid": 1.367565,
+    "trend": 41.52
+  },
+  {
+    "text": "sovemasker silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "hovedpude silke",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.6,
+    "high_bid": 1.557081,
+    "trend": 4.76
+  },
+  {
+    "text": "100 silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.495609,
+    "high_bid": 1.55064,
+    "trend": 22.73
+  },
+  {
+    "text": "silke hår bonnet",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.396269,
+    "high_bid": 1.033588,
+    "trend": 7.98
+  },
+  {
+    "text": "silke hår",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.416141,
+    "high_bid": 1.525381,
+    "trend": 12.12
+  },
+  {
+    "text": "silke til håret",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.451102,
+    "high_bid": 1.577848,
+    "trend": -2.14
+  },
+  {
+    "text": "silke pudebetræk hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.378981,
+    "high_bid": 1.191151,
+    "trend": 0.0
+  },
+  {
+    "text": "ægte silke",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 97,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 2.58
+  },
+  {
+    "text": "silke bonnet hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.468984,
+    "high_bid": 1.085389,
+    "trend": 0.0
+  },
+  {
+    "text": "sovemaske luksus",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "morbær silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 1.52
+  },
+  {
+    "text": "silk bonnet dk",
+    "volume": 10,
+    "competition_level": "LOW",
+    "competition_index": 0,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: global_keyword_silke pudebetræk
+================================================================================
+
+[
+  {
+    "text": "silke pudebetræk",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "silke hovedpudebetræk",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.473727,
+    "high_bid": 1.369894,
+    "trend": 7.54
+  },
+  {
+    "text": "silke pudebetræk jysk",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.491276,
+    "high_bid": 1.413153,
+    "trend": 0.83
+  },
+  {
+    "text": "silkepudebetræk",
+    "volume": 210,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.71072,
+    "high_bid": 1.94428,
+    "trend": 7.03
+  },
+  {
+    "text": "pudebetræk silke",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "hovedpudebetræk silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.532641,
+    "high_bid": 1.422291,
+    "trend": 5.64
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570437,
+    "high_bid": 1.499061,
+    "trend": 22.22
+  },
+  {
+    "text": "pudebetræk i silke",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "silk pudebetræk",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.413324,
+    "high_bid": 1.196144,
+    "trend": -1.11
+  },
+  {
+    "text": "silke pudebetræk tilbud",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.514481,
+    "high_bid": 1.554219,
+    "trend": 7.49
+  },
+  {
+    "text": "save my face pudebetræk silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.472053,
+    "high_bid": 1.094729,
+    "trend": 8.44
+  },
+  {
+    "text": "ægte silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.539225,
+    "high_bid": 1.361902,
+    "trend": 33.33
+  },
+  {
+    "text": "silke pudebetræk ikea",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.403002,
+    "high_bid": 1.311347,
+    "trend": -10.84
+  },
+  {
+    "text": "silke pudebetræk 60x63",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.52944,
+    "high_bid": 1.364156,
+    "trend": 21.86
+  },
+  {
+    "text": "silke hovedpudebetræk tilbud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570802,
+    "high_bid": 1.470101,
+    "trend": 16.67
+  },
+  {
+    "text": "hovedpudebetræk i silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.605487,
+    "high_bid": 1.366168,
+    "trend": 18.79
+  },
+  {
+    "text": "bedste silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.438064,
+    "high_bid": 1.372451,
+    "trend": 3.9
+  },
+  {
+    "text": "silke pudebetræk matas",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.314961,
+    "high_bid": 1.326139,
+    "trend": 2.38
+  },
+  {
+    "text": "silke pudebetræk 60x70",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.532373,
+    "high_bid": 1.234611,
+    "trend": 15.15
+  },
+  {
+    "text": "100 silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.495609,
+    "high_bid": 1.55064,
+    "trend": 22.73
+  },
+  {
+    "text": "bambus silke pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.540263,
+    "high_bid": 1.455647,
+    "trend": 4.55
+  },
+  {
+    "text": "silke pudebetræk sort",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570398,
+    "high_bid": 1.552964,
+    "trend": 4.55
+  },
+  {
+    "text": "silke pudebetræk pricerunner",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk hvid",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.604036,
+    "high_bid": 1.546886,
+    "trend": 38.13
+  },
+  {
+    "text": "silke pudebetræk hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.378981,
+    "high_bid": 1.191151,
+    "trend": 0.0
+  },
+  {
+    "text": "jysk silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 96,
+    "low_bid": 0.432799,
+    "high_bid": 1.305725,
+    "trend": 6.97
+  },
+  {
+    "text": "silke satin pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silke satin hovedpudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "bambus eller silke pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.315064,
+    "high_bid": 1.550688,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk 40x40",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.547014,
+    "high_bid": 1.259588,
+    "trend": 0.0
+  },
+  {
+    "text": "silke pudebetræk hud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: global_keyword_silke sovemaske
+================================================================================
+
+[
+  {
+    "text": "silke sovemaske",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "sovemaske silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "sovemaske i silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "sovebriller silke",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.487453,
+    "high_bid": 1.140238,
+    "trend": 21.36
+  },
+  {
+    "text": "natbriller silke",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.479587,
+    "high_bid": 1.525763,
+    "trend": 16.15
+  },
+  {
+    "text": "silke natbriller",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.425439,
+    "high_bid": 1.345814,
+    "trend": 7.85
+  },
+  {
+    "text": "sovemasker silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  }
+]
+
+================================================================================
+Analysis: global_keyword_silke bonnet
+================================================================================
+
+[
+  {
+    "text": "silke bonnet",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.410815,
+    "high_bid": 1.108054,
+    "trend": 0.55
+  },
+  {
+    "text": "sovehætte silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.404593,
+    "high_bid": 1.234174,
+    "trend": 0.8
+  },
+  {
+    "text": "silk bonnet matas",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.438852,
+    "high_bid": 1.201002,
+    "trend": -1.85
+  },
+  {
+    "text": "bonnet silke",
+    "volume": 1600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.405494,
+    "high_bid": 1.027397,
+    "trend": 1.21
+  },
+  {
+    "text": "silke hår bonnet",
+    "volume": 140,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.404909,
+    "high_bid": 1.087389,
+    "trend": 3.69
+  },
+  {
+    "text": "silke bonnet hår",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.526269,
+    "high_bid": 2.659188,
+    "trend": 7.71
+  },
+  {
+    "text": "silkebonnet",
+    "volume": 110000,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.36213,
+    "high_bid": 1.614128,
+    "trend": -4.62
+  },
+  {
+    "text": "silk hår bonnet",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.329661,
+    "high_bid": 0.716846,
+    "trend": 28.79
+  }
+]
+
+================================================================================
+Analysis: global_url
+================================================================================
+
+[
+  {
+    "text": "sovemaske silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "silke pudebetræk",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "silke sovemaske",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "silke hovedpudebetræk",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.473727,
+    "high_bid": 1.369894,
+    "trend": 7.54
+  },
+  {
+    "text": "pudebetræk silke",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "hovedpudebetræk silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.532641,
+    "high_bid": 1.422291,
+    "trend": 5.64
+  },
+  {
+    "text": "silke bonnet",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.410815,
+    "high_bid": 1.108054,
+    "trend": 0.55
+  },
+  {
+    "text": "mulberry silke",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.55521,
+    "high_bid": 1.547466,
+    "trend": -2.38
+  },
+  {
+    "text": "silke tørklæde",
+    "volume": 2400,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.322084,
+    "high_bid": 1.091593,
+    "trend": 5.89
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570437,
+    "high_bid": 1.499061,
+    "trend": 22.22
+  },
+  {
+    "text": "sovemaske i silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "pudebetræk i silke",
+    "volume": 3600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.537092,
+    "high_bid": 1.552952,
+    "trend": 2.53
+  },
+  {
+    "text": "silke pudebetræk tilbud",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.514481,
+    "high_bid": 1.554219,
+    "trend": 7.49
+  },
+  {
+    "text": "ægte silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.539225,
+    "high_bid": 1.361902,
+    "trend": 33.33
+  },
+  {
+    "text": "silke hovedpudebetræk tilbud",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.570802,
+    "high_bid": 1.470101,
+    "trend": 16.67
+  },
+  {
+    "text": "bedste silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.438064,
+    "high_bid": 1.372451,
+    "trend": 3.9
+  },
+  {
+    "text": "hovedpudebetræk i silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.605487,
+    "high_bid": 1.366168,
+    "trend": 18.79
+  },
+  {
+    "text": "luksus sovemaske",
+    "volume": 30,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.49268,
+    "high_bid": 1.388567,
+    "trend": 37.42
+  },
+  {
+    "text": "sovemasker silke",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 99,
+    "low_bid": 0.471586,
+    "high_bid": 1.38332,
+    "trend": 9.3
+  },
+  {
+    "text": "hovedpude silke",
+    "volume": 260,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.613336,
+    "high_bid": 1.61053,
+    "trend": 5.09
+  },
+  {
+    "text": "100 silke pudebetræk",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.495609,
+    "high_bid": 1.55064,
+    "trend": 22.73
+  },
+  {
+    "text": "silke hår bonnet",
+    "volume": 140,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.404909,
+    "high_bid": 1.087389,
+    "trend": 3.69
+  },
+  {
+    "text": "silke hår",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.400016,
+    "high_bid": 1.144306,
+    "trend": 0.42
+  },
+  {
+    "text": "silke til håret",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.451102,
+    "high_bid": 1.109256,
+    "trend": -0.55
+  },
+  {
+    "text": "silke pudebetræk hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.378981,
+    "high_bid": 1.191151,
+    "trend": 0.0
+  },
+  {
+    "text": "ægte silke",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 97,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": -0.61
+  },
+  {
+    "text": "silke bonnet hår",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.526269,
+    "high_bid": 2.659188,
+    "trend": 7.71
+  },
+  {
+    "text": "sovemaske luksus",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "morbær silke",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 3.18
+  },
+  {
+    "text": "silke satin pudebetræk",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  },
+  {
+    "text": "silk bonnet dk",
+    "volume": 10,
+    "competition_level": "MEDIUM",
+    "competition_index": 50,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: top_keywords_silke pudebetræk
+================================================================================
+
+[
+  {
+    "text": "silke pudebetræk",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "pudebetræk silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "pudebetræk i silke",
+    "volume": 2900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.520254,
+    "high_bid": 1.556117,
+    "trend": 2.53
+  },
+  {
+    "text": "silke hovedpudebetræk",
+    "volume": 720,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.48084,
+    "high_bid": 1.359032,
+    "trend": 7.62
+  },
+  {
+    "text": "silke pudebetræk jysk",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.487355,
+    "high_bid": 1.413153,
+    "trend": 2.16
+  },
+  {
+    "text": "silkepudebetræk",
+    "volume": 170,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.699219,
+    "high_bid": 1.988718,
+    "trend": 3.95
+  },
+  {
+    "text": "hovedpudebetræk silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.523343,
+    "high_bid": 1.402113,
+    "trend": 6.2
+  },
+  {
+    "text": "silk pudebetræk",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.429731,
+    "high_bid": 1.241387,
+    "trend": 0.61
+  },
+  {
+    "text": "silke pudebetræk ikea",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.403002,
+    "high_bid": 1.311347,
+    "trend": -10.84
+  },
+  {
+    "text": "mulberry silke pudebetræk",
+    "volume": 40,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.599779,
+    "high_bid": 1.499061,
+    "trend": 27.58
+  }
+]
+
+================================================================================
+Analysis: top_keywords_silke sovemaske
+================================================================================
+
+[
+  {
+    "text": "silke sovemaske",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovemaske silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovemaske i silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "sovemasker silke",
+    "volume": 880,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.44846,
+    "high_bid": 1.255042,
+    "trend": 6.47
+  },
+  {
+    "text": "silke natbriller",
+    "volume": 70,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.420955,
+    "high_bid": 1.27346,
+    "trend": 9.28
+  },
+  {
+    "text": "natbriller silke",
+    "volume": 50,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.479587,
+    "high_bid": 1.525763,
+    "trend": 18.9
+  },
+  {
+    "text": "sovebriller silke",
+    "volume": 20,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.486134,
+    "high_bid": 1.140238,
+    "trend": 22.12
+  }
+]
+
+================================================================================
+Analysis: top_keywords_silke bonnet
+================================================================================
+
+[
+  {
+    "text": "silkebonnet",
+    "volume": 1900,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.393581,
+    "high_bid": 1.141751,
+    "trend": -0.05
+  },
+  {
+    "text": "silke bonnet",
+    "volume": 1600,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.418452,
+    "high_bid": 1.06843,
+    "trend": 7.74
+  },
+  {
+    "text": "bonnet silke",
+    "volume": 590,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.417343,
+    "high_bid": 1.038995,
+    "trend": -2.71
+  },
+  {
+    "text": "silk bonnet matas",
+    "volume": 390,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.437703,
+    "high_bid": 1.201002,
+    "trend": -3.68
+  },
+  {
+    "text": "silke hår bonnet",
+    "volume": 110,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.396269,
+    "high_bid": 1.033588,
+    "trend": 7.98
+  },
+  {
+    "text": "sovehætte silke",
+    "volume": 90,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.406078,
+    "high_bid": 1.234174,
+    "trend": 0.8
+  },
+  {
+    "text": "silke bonnet hår",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.468984,
+    "high_bid": 1.085389,
+    "trend": 0.0
+  },
+  {
+    "text": "silk hår bonnet",
+    "volume": 10,
+    "competition_level": "HIGH",
+    "competition_index": 100,
+    "low_bid": 0.0,
+    "high_bid": 0.0,
+    "trend": 0.0
+  }
+]
+
+================================================================================
+Analysis: available_locations
+================================================================================
+
+[
+  {
+    "country_name": "Afghanistan",
+    "country_code": "AF"
+  },
+  {
+    "country_name": "Albania",
+    "country_code": "AL"
+  },
+  {
+    "country_name": "Algeria",
+    "country_code": "DZ"
+  },
+  {
+    "country_name": "American Samoa",
+    "country_code": "AS"
+  },
+  {
+    "country_name": "Andorra",
+    "country_code": "AD"
+  },
+  {
+    "country_name": "Angola",
+    "country_code": "AO"
+  },
+  {
+    "country_name": "Antarctica",
+    "country_code": "AQ"
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "country_code": "AG"
+  },
+  {
+    "country_name": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "country_name": "Armenia",
+    "country_code": "AM"
+  },
+  {
+    "country_name": "Australia",
+    "country_code": "AU"
+  },
+  {
+    "country_name": "Austria",
+    "country_code": "AT"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_code": "AZ"
+  },
+  {
+    "country_name": "Bahrain",
+    "country_code": "BH"
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_code": "BD"
+  },
+  {
+    "country_name": "Barbados",
+    "country_code": "BB"
+  },
+  {
+    "country_name": "Belarus",
+    "country_code": "BY"
+  },
+  {
+    "country_name": "Belgium",
+    "country_code": "BE"
+  },
+  {
+    "country_name": "Belize",
+    "country_code": "BZ"
+  },
+  {
+    "country_name": "Benin",
+    "country_code": "BJ"
+  },
+  {
+    "country_name": "Bhutan",
+    "country_code": "BT"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_code": "BA"
+  },
+  {
+    "country_name": "Botswana",
+    "country_code": "BW"
+  },
+  {
+    "country_name": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "country_name": "Brunei",
+    "country_code": "BN"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_code": "BG"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_code": "BF"
+  },
+  {
+    "country_name": "Burundi",
+    "country_code": "BI"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_code": "KH"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_code": "CM"
+  },
+  {
+    "country_name": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "country_name": "Cape Verde",
+    "country_code": "CV"
+  },
+  {
+    "country_name": "Caribbean Netherlands",
+    "country_code": "BQ"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_code": "CF"
+  },
+  {
+    "country_name": "Chad",
+    "country_code": "TD"
+  },
+  {
+    "country_name": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "country_name": "China",
+    "country_code": "CN"
+  },
+  {
+    "country_name": "Christmas Island",
+    "country_code": "CX"
+  },
+  {
+    "country_name": "Cocos (Keeling) Islands",
+    "country_code": "CC"
+  },
+  {
+    "country_name": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "country_name": "Comoros",
+    "country_code": "KM"
+  },
+  {
+    "country_name": "Cook Islands",
+    "country_code": "CK"
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "country_name": "Côte d'Ivoire",
+    "country_code": "CI"
+  },
+  {
+    "country_name": "Croatia",
+    "country_code": "HR"
+  },
+  {
+    "country_name": "Curaçao",
+    "country_code": "CW"
+  },
+  {
+    "country_name": "Cyprus",
+    "country_code": "CY"
+  },
+  {
+    "country_name": "Czechia",
+    "country_code": "CZ"
+  },
+  {
+    "country_name": "Democratic Republic of the Congo",
+    "country_code": "CD"
+  },
+  {
+    "country_name": "Denmark",
+    "country_code": "DK"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_code": "DJ"
+  },
+  {
+    "country_name": "Dominica",
+    "country_code": "DM"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "country_name": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "country_name": "Egypt",
+    "country_code": "EG"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_code": "GQ"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_code": "ER"
+  },
+  {
+    "country_name": "Estonia",
+    "country_code": "EE"
+  },
+  {
+    "country_name": "Eswatini",
+    "country_code": "SZ"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_code": "ET"
+  },
+  {
+    "country_name": "Federated States of Micronesia",
+    "country_code": "FM"
+  },
+  {
+    "country_name": "Fiji",
+    "country_code": "FJ"
+  },
+  {
+    "country_name": "Finland",
+    "country_code": "FI"
+  },
+  {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  {
+    "country_name": "French Polynesia",
+    "country_code": "PF"
+  },
+  {
+    "country_name": "French Southern and Antarctic Lands",
+    "country_code": "TF"
+  },
+  {
+    "country_name": "Gabon",
+    "country_code": "GA"
+  },
+  {
+    "country_name": "Georgia",
+    "country_code": "GE"
+  },
+  {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "country_name": "Ghana",
+    "country_code": "GH"
+  },
+  {
+    "country_name": "Greece",
+    "country_code": "GR"
+  },
+  {
+    "country_name": "Grenada",
+    "country_code": "GD"
+  },
+  {
+    "country_name": "Guam",
+    "country_code": "GU"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "country_name": "Guernsey",
+    "country_code": "GG"
+  },
+  {
+    "country_name": "Guinea",
+    "country_code": "GN"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_code": "GW"
+  },
+  {
+    "country_name": "Guyana",
+    "country_code": "GY"
+  },
+  {
+    "country_name": "Haiti",
+    "country_code": "HT"
+  },
+  {
+    "country_name": "Heard Island and McDonald Islands",
+    "country_code": "HM"
+  },
+  {
+    "country_name": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "country_name": "Hungary",
+    "country_code": "HU"
+  },
+  {
+    "country_name": "Iceland",
+    "country_code": "IS"
+  },
+  {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_code": "ID"
+  },
+  {
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "country_name": "Ireland",
+    "country_code": "IE"
+  },
+  {
+    "country_name": "Israel",
+    "country_code": "IL"
+  },
+  {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "country_name": "Jamaica",
+    "country_code": "JM"
+  },
+  {
+    "country_name": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "country_name": "Jersey",
+    "country_code": "JE"
+  },
+  {
+    "country_name": "Jordan",
+    "country_code": "JO"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_code": "KZ"
+  },
+  {
+    "country_name": "Kenya",
+    "country_code": "KE"
+  },
+  {
+    "country_name": "Kiribati",
+    "country_code": "KI"
+  },
+  {
+    "country_name": "Kuwait",
+    "country_code": "KW"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_code": "KG"
+  },
+  {
+    "country_name": "Laos",
+    "country_code": "LA"
+  },
+  {
+    "country_name": "Latvia",
+    "country_code": "LV"
+  },
+  {
+    "country_name": "Lebanon",
+    "country_code": "LB"
+  },
+  {
+    "country_name": "Lesotho",
+    "country_code": "LS"
+  },
+  {
+    "country_name": "Liberia",
+    "country_code": "LR"
+  },
+  {
+    "country_name": "Libya",
+    "country_code": "LY"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "country_code": "LI"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_code": "LT"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_code": "LU"
+  },
+  {
+    "country_name": "Madagascar",
+    "country_code": "MG"
+  },
+  {
+    "country_name": "Malawi",
+    "country_code": "MW"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_code": "MY"
+  },
+  {
+    "country_name": "Maldives",
+    "country_code": "MV"
+  },
+  {
+    "country_name": "Mali",
+    "country_code": "ML"
+  },
+  {
+    "country_name": "Malta",
+    "country_code": "MT"
+  },
+  {
+    "country_name": "Marshall Islands",
+    "country_code": "MH"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_code": "MR"
+  },
+  {
+    "country_name": "Mauritius",
+    "country_code": "MU"
+  },
+  {
+    "country_name": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "country_name": "Moldova",
+    "country_code": "MD"
+  },
+  {
+    "country_name": "Monaco",
+    "country_code": "MC"
+  },
+  {
+    "country_name": "Mongolia",
+    "country_code": "MN"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_code": "ME"
+  },
+  {
+    "country_name": "Morocco",
+    "country_code": "MA"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_code": "MZ"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_code": "MM"
+  },
+  {
+    "country_name": "Namibia",
+    "country_code": "NA"
+  },
+  {
+    "country_name": "Nauru",
+    "country_code": "NR"
+  },
+  {
+    "country_name": "Nepal",
+    "country_code": "NP"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_code": "NL"
+  },
+  {
+    "country_name": "New Caledonia",
+    "country_code": "NC"
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_code": "NI"
+  },
+  {
+    "country_name": "Niger",
+    "country_code": "NE"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_code": "NG"
+  },
+  {
+    "country_name": "Norfolk Island",
+    "country_code": "NF"
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_code": "MK"
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "country_code": "MP"
+  },
+  {
+    "country_name": "Norway",
+    "country_code": "NO"
+  },
+  {
+    "country_name": "Oman",
+    "country_code": "OM"
+  },
+  {
+    "country_name": "Pakistan",
+    "country_code": "PK"
+  },
+  {
+    "country_name": "Palau",
+    "country_code": "PW"
+  },
+  {
+    "country_name": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "country_code": "PG"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "country_name": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "country_name": "Philippines",
+    "country_code": "PH"
+  },
+  {
+    "country_name": "Pitcairn Islands",
+    "country_code": "PN"
+  },
+  {
+    "country_name": "Poland",
+    "country_code": "PL"
+  },
+  {
+    "country_name": "Portugal",
+    "country_code": "PT"
+  },
+  {
+    "country_name": "Qatar",
+    "country_code": "QA"
+  },
+  {
+    "country_name": "Republic of the Congo",
+    "country_code": "CG"
+  },
+  {
+    "country_name": "Romania",
+    "country_code": "RO"
+  },
+  {
+    "country_name": "Russia",
+    "country_code": "RU"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_code": "RW"
+  },
+  {
+    "country_name": "Saint Barthélemy",
+    "country_code": "BL"
+  },
+  {
+    "country_name": "Saint Helena",
+    "country_code": "SH"
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "country_code": "KN"
+  },
+  {
+    "country_name": "Saint Lucia",
+    "country_code": "LC"
+  },
+  {
+    "country_name": "Saint Martin",
+    "country_code": "MF"
+  },
+  {
+    "country_name": "Saint Pierre and Miquelon",
+    "country_code": "PM"
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "country_code": "VC"
+  },
+  {
+    "country_name": "Samoa",
+    "country_code": "WS"
+  },
+  {
+    "country_name": "San Marino",
+    "country_code": "SM"
+  },
+  {
+    "country_name": "São Tomé and Príncipe",
+    "country_code": "ST"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_code": "SA"
+  },
+  {
+    "country_name": "Senegal",
+    "country_code": "SN"
+  },
+  {
+    "country_name": "Serbia",
+    "country_code": "RS"
+  },
+  {
+    "country_name": "Seychelles",
+    "country_code": "SC"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_code": "SL"
+  },
+  {
+    "country_name": "Singapore",
+    "country_code": "SG"
+  },
+  {
+    "country_name": "Sint Maarten",
+    "country_code": "SX"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_code": "SK"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_code": "SI"
+  },
+  {
+    "country_name": "Solomon Islands",
+    "country_code": "SB"
+  },
+  {
+    "country_name": "Somalia",
+    "country_code": "SO"
+  },
+  {
+    "country_name": "South Africa",
+    "country_code": "ZA"
+  },
+  {
+    "country_name": "South Georgia and the South Sandwich Islands",
+    "country_code": "GS"
+  },
+  {
+    "country_name": "South Korea",
+    "country_code": "KR"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_code": "SS"
+  },
+  {
+    "country_name": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "country_code": "LK"
+  },
+  {
+    "country_name": "Sudan",
+    "country_code": "SD"
+  },
+  {
+    "country_name": "Suriname",
+    "country_code": "SR"
+  },
+  {
+    "country_name": "Sweden",
+    "country_code": "SE"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "CH"
+  },
+  {
+    "country_name": "Taiwan",
+    "country_code": "TW"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_code": "TJ"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_code": "TZ"
+  },
+  {
+    "country_name": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "country_name": "The Bahamas",
+    "country_code": "BS"
+  },
+  {
+    "country_name": "The Gambia",
+    "country_code": "GM"
+  },
+  {
+    "country_name": "Timor-Leste",
+    "country_code": "TL"
+  },
+  {
+    "country_name": "Togo",
+    "country_code": "TG"
+  },
+  {
+    "country_name": "Tokelau",
+    "country_code": "TK"
+  },
+  {
+    "country_name": "Tonga",
+    "country_code": "TO"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "country_code": "TT"
+  },
+  {
+    "country_name": "Tunisia",
+    "country_code": "TN"
+  },
+  {
+    "country_name": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_code": "TM"
+  },
+  {
+    "country_name": "Tuvalu",
+    "country_code": "TV"
+  },
+  {
+    "country_name": "Uganda",
+    "country_code": "UG"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_code": "UA"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_code": "AE"
+  },
+  {
+    "country_name": "United Kingdom",
+    "country_code": "GB"
+  },
+  {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  {
+    "country_name": "United States Minor Outlying Islands",
+    "country_code": "UM"
+  },
+  {
+    "country_name": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_code": "UZ"
+  },
+  {
+    "country_name": "Vanuatu",
+    "country_code": "VU"
+  },
+  {
+    "country_name": "Vatican City",
+    "country_code": "VA"
+  },
+  {
+    "country_name": "Venezuela",
+    "country_code": "VE"
+  },
+  {
+    "country_name": "Vietnam",
+    "country_code": "VN"
+  },
+  {
+    "country_name": "Wallis and Futuna",
+    "country_code": "WF"
+  },
+  {
+    "country_name": "Yemen",
+    "country_code": "YE"
+  },
+  {
+    "country_name": "Zambia",
+    "country_code": "ZM"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_code": "ZW"
+  }
+]
+
+================================================================================
+Analysis: available_languages
+================================================================================
+
+[
+  {
+    "language_name": "Arabic",
+    "language_code": "ar"
+  },
+  {
+    "language_name": "Bengali",
+    "language_code": "bn"
+  },
+  {
+    "language_name": "Bulgarian",
+    "language_code": "bg"
+  },
+  {
+    "language_name": "Catalan",
+    "language_code": "ca"
+  },
+  {
+    "language_name": "Chinese",
+    "language_code": "zh"
+  },
+  {
+    "language_name": "Croatian",
+    "language_code": "hr"
+  },
+  {
+    "language_name": "Czech",
+    "language_code": "cs"
+  },
+  {
+    "language_name": "Danish",
+    "language_code": "da"
+  },
+  {
+    "language_name": "Dutch",
+    "language_code": "nl"
+  },
+  {
+    "language_name": "English",
+    "language_code": "en"
+  },
+  {
+    "language_name": "Estonian",
+    "language_code": "et"
+  },
+  {
+    "language_name": "Filipino",
+    "language_code": "tl"
+  },
+  {
+    "language_name": "Finnish",
+    "language_code": "fi"
+  },
+  {
+    "language_name": "French",
+    "language_code": "fr"
+  },
+  {
+    "language_name": "German",
+    "language_code": "de"
+  },
+  {
+    "language_name": "Greek",
+    "language_code": "el"
+  },
+  {
+    "language_name": "Gujarati",
+    "language_code": "gu"
+  },
+  {
+    "language_name": "Hebrew",
+    "language_code": "iw"
+  },
+  {
+    "language_name": "Hindi",
+    "language_code": "hi"
+  },
+  {
+    "language_name": "Hungarian",
+    "language_code": "hu"
+  },
+  {
+    "language_name": "Icelandic",
+    "language_code": "is"
+  },
+  {
+    "language_name": "Indonesian",
+    "language_code": "id"
+  },
+  {
+    "language_name": "Italian",
+    "language_code": "it"
+  },
+  {
+    "language_name": "Japanese",
+    "language_code": "ja"
+  },
+  {
+    "language_name": "Kannada",
+    "language_code": "kn"
+  },
+  {
+    "language_name": "Korean",
+    "language_code": "ko"
+  },
+  {
+    "language_name": "Latvian",
+    "language_code": "lv"
+  },
+  {
+    "language_name": "Lithuanian",
+    "language_code": "lt"
+  },
+  {
+    "language_name": "Malay",
+    "language_code": "ms"
+  },
+  {
+    "language_name": "Malayalam",
+    "language_code": "ml"
+  },
+  {
+    "language_name": "Marathi",
+    "language_code": "mr"
+  },
+  {
+    "language_name": "Norwegian",
+    "language_code": "no"
+  },
+  {
+    "language_name": "Persian",
+    "language_code": "fa"
+  },
+  {
+    "language_name": "Polish",
+    "language_code": "pl"
+  },
+  {
+    "language_name": "Portuguese",
+    "language_code": "pt"
+  },
+  {
+    "language_name": "Punjabi",
+    "language_code": "pa"
+  },
+  {
+    "language_name": "Romanian",
+    "language_code": "ro"
+  },
+  {
+    "language_name": "Russian",
+    "language_code": "ru"
+  },
+  {
+    "language_name": "Serbian",
+    "language_code": "sr"
+  },
+  {
+    "language_name": "Slovak",
+    "language_code": "sk"
+  },
+  {
+    "language_name": "Slovenian",
+    "language_code": "sl"
+  },
+  {
+    "language_name": "Spanish",
+    "language_code": "es"
+  },
+  {
+    "language_name": "Swedish",
+    "language_code": "sv"
+  },
+  {
+    "language_name": "Tamil",
+    "language_code": "ta"
+  },
+  {
+    "language_name": "Telugu",
+    "language_code": "te"
+  },
+  {
+    "language_name": "Thai",
+    "language_code": "th"
+  },
+  {
+    "language_name": "Turkish",
+    "language_code": "tr"
+  },
+  {
+    "language_name": "Ukrainian",
+    "language_code": "uk"
+  },
+  {
+    "language_name": "Urdu",
+    "language_code": "ur"
+  },
+  {
+    "language_name": "Vietnamese",
+    "language_code": "vi"
+  }
+]

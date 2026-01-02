@@ -1,0 +1,25 @@
+{
+  "url_metrics": {
+    "uu": "simplybeyond.dk/",
+    "umrp": 1,
+    "umrr": 0.1000000015,
+    "upa": 10,
+    "pda": 9
+  },
+  "backlinks": [
+    {
+      "lrid": 0,
+      "lsrc": 0,
+      "ltgt": 0,
+      "lf": 0,
+      "luuu": "simplybeyond.dk/",
+      "uu": "linklamb.com/?301",
+      "us": 200
+    }
+  ],
+  "anchor_text": [
+    {
+      "aput": ""
+    }
+  ]
+}

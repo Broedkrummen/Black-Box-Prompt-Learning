@@ -1,0 +1,672 @@
+================================================================================
+COMPLETE SEO API ANALYSIS REPORT
+================================================================================
+
+Domain: simplybeyond.dk
+Analysis Date: 2026-01-02 15:35:16
+
+
+================================================================================
+BASIC METRICS (DR, RD, RANK)
+================================================================================
+{
+  "success": true,
+  "data": {
+    "domainRating": 14,
+    "ahRank": 11547561
+  }
+}
+
+================================================================================
+URL METRICS
+================================================================================
+{
+  "success": true,
+  "data": {
+    "page": {
+      "backlinks": 35,
+      "refDomains": 23,
+      "traffic": 0,
+      "trafficValue": 0,
+      "organicKeywords": 0,
+      "urlRating": 6,
+      "numberOfWordsOnPage": 1765
+    },
+    "domain": {
+      "domainRating": 14,
+      "ahrefsRank": 11547561,
+      "domainRank": 11547561,
+      "backlinks": 201,
+      "refDomains": 37,
+      "traffic": 350.69077,
+      "trafficValue": 67.35,
+      "organicKeywords": 126
+    }
+  }
+}
+
+================================================================================
+BACKLINKS
+================================================================================
+{
+  "success": true,
+  "data": {
+    "overview": {
+      "domainRating": 14,
+      "urlRating": 0,
+      "backlinks": 193,
+      "referringDomains": 37,
+      "dofollowBacklinks": {
+        "percentage": 100,
+        "count": 193
+      },
+      "dofollowReferringDomains": {
+        "percentage": 100,
+        "count": 37
+      }
+    },
+    "backlinks": [
+      {
+        "anchor": "dokumenterede metoder til glattere hud",
+        "domainRating": 11,
+        "redirectChain": [],
+        "textPost": "kr\u00e6ver konsistens men giver naturlige og varige resultater uden bivirkninger.",
+        "textPre": "Disse",
+        "title": "Fjern rynker p\u00e5 3 minutter \u2013 hurtig guide hos Nutidensmor.dk",
+        "urlFrom": "https://nutidensmor.dk/fjern-rynker-paa-3-minutter/",
+        "urlTo": "https://simplybeyond.dk/blogs/hudpleje/hvad-virker-mod-rynker-5-ting-du-selv-kan-goere",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "heatless curls",
+        "domainRating": 61,
+        "redirectChain": [],
+        "textPost": "i silke, da det b\u00e5de er sk\u00e5nsomt mod h\u00e5ret og",
+        "textPre": "l\u00e6gges langs h\u00e5r l\u00e6ngderne, hvorefter h\u00e5ret rulles omkring. Mange v\u00e6lger",
+        "title": "Heatless styling: Hvorfor flere dropper varmev\u00e6rkt\u00f8j i 2025",
+        "urlFrom": "https://migogaalborg.dk/heatless-styling-hvorfor-flere-dropper-varmevaerktoej-i-2025/",
+        "urlTo": "https://simplybeyond.dk/collections/heatless-curls",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "https://simplybeyond.dk/",
+        "domainRating": 46,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Naturlige Kr\u00f8ller og Silke \u2013 En Sk\u00e5nsom Stylingoplevelse \u2013 Kreahuset",
+        "urlFrom": "https://kreahuset.dk/naturlige-kroeller-og-silke-en-skaansom-stylingoplevelse/",
+        "urlTo": "https://simplybeyond.dk/",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "pudebetr\u00e6k i silke",
+        "domainRating": 1,
+        "redirectChain": [],
+        "textPost": "kan forbedre b\u00e5de din komfort og dit udseende n\u00e6ste morgen.",
+        "textPre": "Kvaliteten af dine tekstiler betyder noget. Et",
+        "title": "S\u00e5dan sover du bedre \u2013 5 tips til bedre n\u00e6tter og mere energi \u2013 Pizza Time",
+        "urlFrom": "https://oehav.dk/?p=569",
+        "urlTo": "https://simplybeyond.dk/products/silke-pudebetreak-cream",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silke sovemaske",
+        "domainRating": 50,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Hvorfor en silkesovemaske kan v\u00e6re n\u00f8glen til bedre s\u00f8vn \u2013 Mig og Molly",
+        "urlFrom": "https://migogmolly.dk/hvorfor-en-silkesovemaske-kan-vaere-noeglen-til-bedre-soevn/",
+        "urlTo": "https://simplybeyond.dk/collections/silke-sovemaske",
+        "inRendered": true,
+        "inRaw": true
+      },
+      {
+        "anchor": "halst\u00f8rkl\u00e6de i silke",
+        "domainRating": 34,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Sov Bedre og Stilfuldt med Silkeprodukter - Sakt",
+        "urlFrom": "https://sakt.dk/sov-bedre-og-stilfuldt-med-silkeprodukter/",
+        "urlTo": "https://simplybeyond.dk/collections/halstoerklaede-i-silke",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "Mulberry Silke",
+        "domainRating": 52,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Alt, Du Beh\u00f8ver at Vide om Silke og Mulberry Silke \u2013 Kvindezonen",
+        "urlFrom": "https://kvindezonen.dk/alt-du-behoever-at-vide-om-silke-og-mulberry-silke/",
+        "urlTo": "https://simplybeyond.dk/collections/mulberry-silke",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "heatless curls kit",
+        "domainRating": 40,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "f\u00e5 mest muligt ud af sin sk\u00e5nsomme styling, kan et",
+        "title": "Sk\u00e5nsom Styling med Heatless Curler og Silkeprodukter - RI Bolig",
+        "urlFrom": "https://ribo.dk/skaansom-styling-med-heatless-curler-og-silkeprodukter/",
+        "urlTo": "https://simplybeyond.dk/collections/heatless-curls-kit",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silkepudebetr\u00e6k",
+        "domainRating": 0,
+        "redirectChain": [],
+        "textPost": ". Det reducerer friktion mod huden og h\u00e5ret, holder huden",
+        "textPre": "til n\u00e6ste niveau, kan du ogs\u00e5 kombinere masken med et",
+        "title": "juni 2025 \u2013 Beautysalonen",
+        "urlFrom": "https://beautysalonen.dk/2025/06/",
+        "urlTo": "https://simplybeyond.dk/products/silke-pudebetreak-cream",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "heatless curls-s\u00e6t",
+        "domainRating": 1,
+        "redirectChain": [],
+        "textPost": ". Det lader dig style h\u00e5ret natten over \u2013 uden",
+        "textPre": "og h\u00e5rpleje til det n\u00e6ste niveau, s\u00e5 pr\u00f8v Simply Beyonds",
+        "title": "Din s\u00f8vn er vigtigere end du tror \u2013 og den starter med de rigtige omgivelser - Bedreselvv\u00e6rd",
+        "urlFrom": "https://bedreselvvaerd.dk/din-soevn-er-vigtigere-end-du-tror-og-den-starter-med-de-rigtige-omgivelser/",
+        "urlTo": "https://simplybeyond.dk/products/heatless-curls",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "heatless curls-s\u00e6t",
+        "domainRating": 2,
+        "redirectChain": [],
+        "textPost": ". Det giver dig naturlige kr\u00f8ller natten over \u2013 uden",
+        "textPre": "du tage det til n\u00e6ste niveau, s\u00e5 pr\u00f8v Simply Beyonds",
+        "title": "Sov godt, se godt ud \u2013 s\u00e5dan h\u00e6nger s\u00f8vn og sk\u00f8nhed sammen - mommyscircus.dk",
+        "urlFrom": "https://mommyscircus.dk/sov-godt-se-godt-ud-saadan-haenger-soevn-og-skoenhed-sammen/",
+        "urlTo": "https://simplybeyond.dk/products/heatless-curls",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "Simply Beyond",
+        "domainRating": 4,
+        "redirectChain": [],
+        "textPost": "er udviklet med fokus p\u00e5 b\u00e5de velv\u00e6re og \u00e6stetik. Det",
+        "textPre": "Produkterne fra",
+        "title": "S\u00e5dan g\u00f8r du din aftenrutine til noget, du gl\u00e6der dig til \u2013 med silke - petitpodium.dk",
+        "urlFrom": "https://petitpodium.dk/saadan-goer-du-din-aftenrutine-til-noget-du-glaeder-dig-til-med-silke/",
+        "urlTo": "https://simplybeyond.dk/",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silkepudebetr\u00e6k",
+        "domainRating": 52,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Sover du d\u00e5rligt? 5 sm\u00e5 \u00e6ndringer der giver markant bedre nattes\u00f8vn \u2013 Enklere Liv",
+        "urlFrom": "https://enklereliv.dk/sover-du-daarligt-5-smaa-aendringer-der-giver-markant-bedre-nattesoevn/",
+        "urlTo": "https://simplybeyond.dk/collections/silke-pudebetraek",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "S\u00e5dan beskytter du h\u00e5ret om natten",
+        "domainRating": 50,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Sk\u00e5n Dit H\u00e5r og Din Hud Med Silke \u2013 Kvindeblog",
+        "urlFrom": "https://kvindeblog.dk/skaan-dit-haar-og-din-hud-med-silke/",
+        "urlTo": "https://simplybeyond.dk/blogs/nyheder/saadan-beskytter-du-haaret-om-natten",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silke pudebetr\u00e6k",
+        "domainRating": 35,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "mest popul\u00e6re produkter til at beskytte h\u00e5ret og huden er",
+        "title": "Sov Luksuri\u00f8st og Beskyt Dit H\u00e5r med Silke - Danish Fashion Institute",
+        "urlFrom": "https://danishfashioninstitute.dk/sov-luksurioest-og-beskyt-dit-haar-med-silke/",
+        "urlTo": "https://simplybeyond.dk/collections/silke-pudebetraek",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "Hemmeligheden bag sundt og glansfuldt h\u00e5r",
+        "domainRating": 39,
+        "redirectChain": [
+          {
+            "url": "https://simplybeyond.dk/blogs/nyheder/saadan-bevarer-du-haarets-glans-og-fugt",
+            "redirectCode": 301
+          }
+        ],
+        "textPost": "",
+        "textPre": "Artiklen",
+        "title": "Hemmeligheden Bag Sundt og Glansfuldt H\u00e5r - Elekcig.dk",
+        "urlFrom": "https://elekcig.dk/hemmeligheden-bag-sundt-og-glansfuldt-haar/",
+        "urlTo": "https://simplybeyond.dk/blogs/haarpleje/saadan-bevarer-du-haarets-glans-og-fugt",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "scrunchien i silke",
+        "domainRating": 0,
+        "redirectChain": [],
+        "textPost": "fra s\u00e6ttet som en del af deres daglige styling \u2013",
+        "textPre": "Mange bruger ogs\u00e5",
+        "title": "Giv dit h\u00e5r en pause \u2013 v\u00e6lg varmel\u00f8s styling med silke \u2013 Studiemagasin",
+        "urlFrom": "https://studiemagasin.dk/?p=671",
+        "urlTo": "https://simplybeyond.dk/products/scrunchie",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "Simply Beyond",
+        "domainRating": 0,
+        "redirectChain": [],
+        "textPost": ".",
+        "textPre": "\u00e9t produkt. Du kan finde inspiration og hele udvalget hos",
+        "title": "Hvorfor silke og selvfork\u00e6lelse g\u00e5r h\u00e5nd i h\u00e5nd \u2013 DinGuide til Lifehacks",
+        "urlFrom": "https://lifehacks.dk/?p=957",
+        "urlTo": "https://simplybeyond.dk/",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silke scrunchie",
+        "domainRating": 51,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "",
+        "title": "Silkeaccessories: Sk\u00f8nhed og Komfort i \u00c9n \u2013 Livet Givet",
+        "urlFrom": "https://livetgivet.dk/silkeaccessories-skoenhed-og-komfort-i-en/",
+        "urlTo": "https://simplybeyond.dk/collections/silke-scrunchie",
+        "inRendered": false,
+        "inRaw": true
+      },
+      {
+        "anchor": "silke pudebetr\u00e6k",
+        "domainRating": 51,
+        "redirectChain": [],
+        "textPost": "",
+        "textPre": "at v\u00e6lge materialer, der b\u00e5de er komfortable og sk\u00e5nsomme. Et",
+        "title": "Tilf\u00f8j Elegance og Luksus med Silkeaccessories - Letzshoponline.dk",
+        "urlFrom": "https://letzshoponline.dk/tilfoej-elegance-og-luksus-med-silkeaccessories/",
+        "urlTo": "https://simplybeyond.dk/collections/silke-pudebetraek",
+        "inRendered": false,
+        "inRaw": true
+      }
+    ],
+    "total": 20
+  }
+}
+
+================================================================================
+KEYWORD METRICS
+================================================================================
+{
+  "success": true,
+  "data": {
+    "keyword": "silke sovemaske",
+    "searchVolume": 350,
+    "clicks": 0,
+    "cpc": 0.5,
+    "difficulty": 0,
+    "globalSearchVolume": 500,
+    "trafficPotential": 450
+  }
+}
+
+================================================================================
+KEYWORD SUGGESTIONS
+================================================================================
+{
+  "success": true,
+  "data": {
+    "allIdeas": {
+      "results": [
+        {
+          "id": "124d58bf0770403b4c73557a94cc45d1-dk",
+          "keyword": "silke pudebetr\u00e6k",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneThousand",
+          "updatedAt": "2026-01-01T12:14:46Z"
+        },
+        {
+          "id": "a15efc7292106455275874a54c1fa3df-dk",
+          "keyword": "silke bonnet",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneThousand",
+          "updatedAt": "2025-12-19T17:57:41Z"
+        },
+        {
+          "id": "03d264fe60d975c3c1775fdabed388f8-dk",
+          "keyword": "silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneThousand",
+          "updatedAt": "2025-12-17T05:49:25Z"
+        },
+        {
+          "id": "e1e524cfeec26d2c4ad83a58538e468f-dk",
+          "keyword": "silke senget\u00f8j",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneThousand",
+          "updatedAt": "2025-12-29T19:37:29Z"
+        },
+        {
+          "id": "314d2e1fd1436942d70983cccaff485a-dk",
+          "keyword": "silke hovedpudebetr\u00e6k",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-30T20:32:41Z"
+        },
+        {
+          "id": "dcbcd88c778df76ada8b0b8b32b09eea-dk",
+          "keyword": "bonnet silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-28T07:52:02Z"
+        },
+        {
+          "id": "29d7a4bdee6043f8d672decc05245156-dk",
+          "keyword": "silke t\u00f8rkl\u00e6de",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-21T05:19:39Z"
+        },
+        {
+          "id": "2c98147015dc70c7d5ead10d7b29f3f2-dk",
+          "keyword": "silke natt\u00f8j",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-27T21:56:02Z"
+        },
+        {
+          "id": "975c9707d352071b4c8203e9dbfabc0f-dk",
+          "keyword": "sovemaske silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-31T20:30:50Z"
+        },
+        {
+          "id": "c1a4236bd2ad7d1884992e2c811daa69-dk",
+          "keyword": "silke kjole",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-24T08:55:06Z"
+        },
+        {
+          "id": "0ef94c238f5e11595335980c725fcb2f-dk",
+          "keyword": "silke natkjole",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2026-01-01T19:18:10Z"
+        },
+        {
+          "id": "0bdb05edb24cdfbd1ee46c06c2bdbdec-dk",
+          "keyword": "silke nederdel",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-20T17:24:53Z"
+        },
+        {
+          "id": "7d8130de4b5d47522f9bafeee6a81392-dk",
+          "keyword": "silke sovemaske",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-23T06:33:37Z"
+        },
+        {
+          "id": "2f9d845634a0d7478ab44284ef5d858a-dk",
+          "keyword": "silke pudebetr\u00e6k jysk",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-27T02:09:50Z"
+        },
+        {
+          "id": "a86e25f1b70b39f6aedda69c265bce2d-dk",
+          "keyword": "kimono silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-21T12:10:35Z"
+        },
+        {
+          "id": "c28bb594efdd9cce34dcda3e16c59562-dk",
+          "keyword": "joha uld silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-11-30T12:49:19Z"
+        },
+        {
+          "id": "b527d7d55e31985cf6bc7d3372784e96-dk",
+          "keyword": "silke top",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-21T19:03:19Z"
+        },
+        {
+          "id": "7ea2d318337a0f22eb7d0aed8fc16fa2-dk",
+          "keyword": "silke morgenk\u00e5be",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-11-27T18:17:11Z"
+        },
+        {
+          "id": "5ed8c9143afafddb8594697ff8545d77-dk",
+          "keyword": "silke bukser",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-08T15:37:08Z"
+        },
+        {
+          "id": "8fad01e7e8146eb9f8a59f39d8f9f61b-dk",
+          "keyword": "silke pyjamas",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "MoreThanOneHundred",
+          "updatedAt": "2025-12-21T18:01:12Z"
+        }
+      ],
+      "total": 5097
+    },
+    "questionIdeas": {
+      "results": [
+        {
+          "id": "540a50b8f4e6c54e8ce7820c7ce1bba1-dk",
+          "keyword": "hvad er silke lavet af",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2025-12-24T12:58:54Z"
+        },
+        {
+          "id": "42090fa91728d4553c15512e20cb61d5-dk",
+          "keyword": "hvor kommer silke fra",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2025-12-30T13:48:53Z"
+        },
+        {
+          "id": "6d7aeee6d2780609f440e030c230f76c-dk",
+          "keyword": "hvordan laver man silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2026-01-01T01:30:28Z"
+        },
+        {
+          "id": "41661afcf3346c25a7bd351f228dd558-dk",
+          "keyword": "hvordan vasker man silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2025-11-30T09:40:32Z"
+        },
+        {
+          "id": "163393f8173bcf266e832f33d9522acf-dk",
+          "keyword": "hvad er mulberry silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "8c028d2491da71da8b2f6ca122c1b376-dk",
+          "keyword": "hvad betyder navnet silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2025-12-15T10:27:02Z"
+        },
+        {
+          "id": "fcbc9ba82ac39a03e3de80b9aae42a9a-dk",
+          "keyword": "hvad betyder silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "e2b5cd0ea69194137a6c4242ca494b90-dk",
+          "keyword": "hvad er silke",
+          "country": "dk",
+          "difficultyLabel": "Easy",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": "2025-12-24T21:04:42Z"
+        },
+        {
+          "id": "90ed42e78b2932bd4cb29df665e529f2-dk",
+          "keyword": "hvordan vasker man silke senget\u00f8j",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "83eb6d785441b8f09dffe131897f814e-dk",
+          "keyword": "hvordan vaske silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "5e5d4bb43354cf94c3bb2d36f6b4c558-dk",
+          "keyword": "hvor mange hedder silke i danmark",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "67b842bc73d5e9ba3d0fb4ec8b2f8cc9-dk",
+          "keyword": "hvad er bourette silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "325246834863dc069a074fb99cbeafdc-dk",
+          "keyword": "hvordan laves silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "af85021ef1599deb1b0bb4fa62891c12-dk",
+          "keyword": "hvad er seta silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "50df5aae3b616b3e650d38db0715cc9f-dk",
+          "keyword": "hvad er forskellen p\u00e5 satin og silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "665d2911ea59c8572d3dbdba22a99285-dk",
+          "keyword": "hvad er tussah silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "ac8bf2777d5e56730f0e2c8c931c9909-dk",
+          "keyword": "hvem er faren til silke fra love islands barn",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "4fae07b449ba8e412aec49d325e20c99-dk",
+          "keyword": "hvem er silke fra love island gravid med",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "405f71379d083c62eda5e12c57496c40-dk",
+          "keyword": "hvordan vaskes silke",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        },
+        {
+          "id": "2c1fdf8a8c43b50d62f9f76b2055763c-dk",
+          "keyword": "hvordan skal silke vaskes",
+          "country": "dk",
+          "difficultyLabel": "Unknown",
+          "volumeLabel": "LessThanOneHundred",
+          "updatedAt": null
+        }
+      ],
+      "total": 39
+    }
+  }
+}

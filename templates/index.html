@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO Analysis Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .dashboard-container {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            color: #667eea;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        .metric-card h3 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .metric-card p {
+            margin: 0;
+            opacity: 0.9;
+        }
+        .input-section {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        .btn-analyze {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            padding: 12px 40px;
+            font-weight: bold;
+            border-radius: 10px;
+        }
+        .btn-analyze:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 40px;
+        }
+        .spinner-border {
+            width: 3rem;
+            height: 3rem;
+        }
+        .results-section {
+            display: none;
+        }
+        .table-container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-top: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        .chart-container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-top: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="dashboard-container">
+            <!-- Header -->
+            <div class="header">
+                <h1><i class="fas fa-search"></i> SEO Analysis Dashboard</h1>
+                <p class="text-muted">Comprehensive SEO & Backlink Analysis Tool</p>
+            </div>
+
+            <!-- Input Section -->
+            <div class="input-section">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label class="form-label"><i class="fas fa-globe"></i> Domain</label>
+                        <input type="text" class="form-control" id="domain-input" placeholder="example.com">
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label"><i class="fas fa-map-marker-alt"></i> Location</label>
+                        <select class="form-select" id="location-select">
+                            <option value="DK">Denmark</option>
+                            <option value="US">United States</option>
+                            <option value="GB">United Kingdom</option>
+                            <option value="DE">Germany</option>
+                            <option value="SE">Sweden</option>
+                            <option value="NO">Norway</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label"><i class="fas fa-language"></i> Language</label>
+                        <select class="form-select" id="language-select">
+                            <option value="da">Danish</option>
+                            <option value="en">English</option>
+                            <option value="de">German</option>
+                            <option value="sv">Swedish</option>
+                            <option value="no">Norwegian</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">&nbsp;</label>
+                        <button class="btn btn-primary btn-analyze w-100" onclick="analyzeWebsite()">
+                            <i class="fas fa-search"></i> Analyze
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Data Source Checkboxes -->
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <label class="form-label"><i class="fas fa-database"></i> Select Data Sources</label>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="sitemap-check" checked>
+                                    <label class="form-check-label" for="sitemap-check">
+                                        <small>🗺️ Sitemap</small>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="moz-check" checked>
+                                    <label class="form-check-label" for="moz-check">
+                                        <small>📈 Moz</small>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="ahrefs-check" checked>
+                                    <label class="form-check-label" for="ahrefs-check">
+                                        <small>🔗 Ahrefs</small>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="similarweb-check" checked>
+                                    <label class="form-check-label" for="similarweb-check">
+                                        <small>📊 SimilarWeb</small>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="seo-api-check" checked>
+                                    <label class="form-check-label" for="seo-api-check">
+                                        <small>🔍 SEO API</small>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="google-check" checked>
+                                    <label class="form-check-label" for="google-check">
+                                        <small>🔑 Google</small>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading -->
+            <div class="loading" id="loading">
+                <div class="spinner-border text-primary" role="status"></div>
+                <p class="mt-3">Analyzing website...</p>
+            </div>
+
+            <!-- Results -->
+            <div class="results-section" id="results">
+                <!-- Metrics Row -->
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="metric-card">
+                            <h3 id="da-metric">-</h3>
+                            <p>Domain Authority</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="metric-card">
+                            <h3 id="dr-metric">-</h3>
+                            <p>Domain Rating</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="metric-card">
+                            <h3 id="visits-metric">-</h3>
+                            <p>Monthly Visits</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="metric-card">
+                            <h3 id="pages-metric">-</h3>
+                            <p>Pages Indexed</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="chart-container">
+                            <h5><i class="fas fa-chart-bar"></i> Authority Metrics</h5>
+                            <canvas id="authorityChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="chart-container">
+                            <h5><i class="fas fa-link"></i> Backlink Overview</h5>
+                            <canvas id="backlinkChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Backlinks Table -->
+                <div class="table-container">
+                    <h5><i class="fas fa-table"></i> Top Backlinks</h5>
+                    <div class="table-responsive">
+                        <table class="table table-hover" id="backlinks-table">
+                            <thead>
+                                <tr>
+                                    <th>Anchor</th>
+                                    <th>DR</th>
+                                    <th>From</th>
+                                    <th>To</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Keywords Table -->
+                <div class="table-container">
+                    <h5><i class="fas fa-key"></i> Top Keywords</h5>
+                    <div class="table-responsive">
+                        <table class="table table-hover" id="keywords-table">
+                            <thead>
+                                <tr>
+                                    <th>Keyword</th>
+                                    <th>Volume</th>
+                                    <th>Competition</th>
+                                    <th>CPC</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let authorityChart, backlinkChart;
+
+        async function analyzeWebsite() {
+            const domain = document.getElementById('domain-input').value;
+            const location = document.getElementById('location-select').value;
+            const language = document.getElementById('language-select').value;
+
+            // Get checkbox values
+            const use_sitemap = document.getElementById('sitemap-check').checked;
+            const use_moz = document.getElementById('moz-check').checked;
+            const use_ahrefs = document.getElementById('ahrefs-check').checked;
+            const use_similarweb = document.getElementById('similarweb-check').checked;
+            const use_seo_api = document.getElementById('seo-api-check').checked;
+            const use_google = document.getElementById('google-check').checked;
+
+            if (!domain) {
+                alert('Please enter a domain');
+                return;
+            }
+
+            // Check if at least one data source is selected
+            if (!use_sitemap && !use_moz && !use_ahrefs && !use_similarweb && !use_seo_api && !use_google) {
+                alert('Please select at least one data source');
+                return;
+            }
+
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+
+            try {
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        domain,
+                        location,
+                        language,
+                        use_sitemap,
+                        use_moz,
+                        use_ahrefs,
+                        use_similarweb,
+                        use_seo_api,
+                        use_google
+                    })
+                });
+
+                const data = await response.json();
+
+                // Hide loading
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('results').style.display = 'block';
+
+                // Update metrics
+                document.getElementById('da-metric').textContent = 
+                    data.moz.success ? data.moz.data.domain_authority : 'N/A';
+                
+                document.getElementById('dr-metric').textContent = 
+                    data.ahrefs.success ? data.ahrefs.data.domainRating : 'N/A';
+                
+                if (data.similarweb.success && data.similarweb.data.visits) {
+                    const visits = Object.values(data.similarweb.data.visits);
+                    document.getElementById('visits-metric').textContent = 
+                        visits[visits.length - 1].toLocaleString();
+                } else {
+                    document.getElementById('visits-metric').textContent = 'N/A';
+                }
+                
+                document.getElementById('pages-metric').textContent = 
+                    data.sitemap.success ? data.sitemap.pages : 'N/A';
+
+                // Update charts
+                updateCharts(data);
+
+                // Update tables
+                updateBacklinksTable(data);
+                updateKeywordsTable(data);
+
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred during analysis');
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function updateCharts(data) {
+            // Authority Chart
+            const authCtx = document.getElementById('authorityChart').getContext('2d');
+            if (authorityChart) authorityChart.destroy();
+            
+            authorityChart = new Chart(authCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Moz DA', 'Ahrefs DR'],
+                    datasets: [{
+                        label: 'Authority Score',
+                        data: [
+                            data.moz.success ? data.moz.data.domain_authority : 0,
+                            data.ahrefs.success ? data.ahrefs.data.domainRating : 0
+                        ],
+                        backgroundColor: [
+                            'rgba(102, 126, 234, 0.8)',
+                            'rgba(118, 75, 162, 0.8)'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100
+                        }
+                    }
+                }
+            });
+
+            // Backlink Chart
+            const blCtx = document.getElementById('backlinkChart').getContext('2d');
+            if (backlinkChart) backlinkChart.destroy();
+            
+            if (data.seo_api.success) {
+                const overview = data.seo_api.data.overview;
+                backlinkChart = new Chart(blCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Backlinks', 'Referring Domains'],
+                        datasets: [{
+                            data: [overview.backlinks, overview.referringDomains],
+                            backgroundColor: [
+                                'rgba(102, 126, 234, 0.8)',
+                                'rgba(118, 75, 162, 0.8)'
+                            ]
+                        }]
+                    },
+                    options: {
+                        responsive: true
+                    }
+                });
+            }
+        }
+
+        function updateBacklinksTable(data) {
+            const tbody = document.querySelector('#backlinks-table tbody');
+            tbody.innerHTML = '';
+
+            if (data.seo_api.success && data.seo_api.data.backlinks) {
+                data.seo_api.data.backlinks.slice(0, 20).forEach(bl => {
+                    const row = tbody.insertRow();
+                    row.innerHTML = `
+                        <td>${bl.anchor.substring(0, 50)}</td>
+                        <td>${bl.domainRating}</td>
+                        <td><small>${bl.urlFrom.substring(0, 60)}</small></td>
+                        <td><small>${bl.urlTo.substring(0, 60)}</small></td>
+                    `;
+                });
+            }
+        }
+
+        function updateKeywordsTable(data) {
+            const tbody = document.querySelector('#keywords-table tbody');
+            tbody.innerHTML = '';
+
+            if (data.google.success && data.google.data) {
+                data.google.data.slice(0, 20).forEach(kw => {
+                    const row = tbody.insertRow();
+                    row.innerHTML = `
+                        <td>${kw.text}</td>
+                        <td>${kw.volume.toLocaleString()}</td>
+                        <td>${kw.competition_level}</td>
+                        <td>$${kw.low_bid.toFixed(2)} - $${kw.high_bid.toFixed(2)}</td>
+                    `;
+                });
+            }
+        }
+    </script>
+</body>
+</html>

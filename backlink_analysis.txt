@@ -1,0 +1,70 @@
+================================================================================
+BACKLINK ANALYSIS REPORT
+================================================================================
+
+Domain: simplybeyond.dk
+Analysis Date: 2026-01-02 14:24:58
+
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+This free backlink checker has limitations:
+1. Google's 'link:' operator is deprecated and may not work
+2. Bing results are limited and may include false positives
+3. Common Crawl data may be outdated (updated quarterly)
+
+For comprehensive backlink data, use:
+- Google Search Console (free, most accurate)
+- Ahrefs Webmaster Tools (free tier available)
+- Bing Webmaster Tools (free)
+- Moz Link Explorer (limited free)
+
+
+================================================================================
+BING SEARCH RESULTS
+================================================================================
+
+Found 8 potential backlink domains:
+
+1. lnk.dk
+2. storage.live.com
+3. support.stripe.com
+4. stripe.com
+5. www.w3.org
+6. schemas.live.com
+7. ordnet.dk
+8. support.
+
+================================================================================
+COMMON CRAWL RESULTS
+================================================================================
+
+No results found in Common Crawl
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+To get accurate backlink data:
+
+1. GOOGLE SEARCH CONSOLE (Recommended - Free)
+   - Visit: https://search.google.com/search-console
+   - Add and verify your property
+   - Go to Links section for complete backlink data
+   
+2. AHREFS WEBMASTER TOOLS (Free Tier)
+   - Visit: https://ahrefs.com/webmaster-tools
+   - Sign up for free account
+   - Verify domain ownership
+   - Access backlink data, broken links, and more
+   
+3. BING WEBMASTER TOOLS (Free)
+   - Visit: https://www.bing.com/webmasters
+   - Add and verify your site
+   - View inbound links report
+
+4. MOZ LINK EXPLORER (Limited Free)
+   - Visit: https://moz.com/link-explorer
+   - Enter domain for limited free results

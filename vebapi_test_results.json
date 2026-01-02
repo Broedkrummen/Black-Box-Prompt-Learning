@@ -1,0 +1,60 @@
+{
+  "domain": "simplybeyond.dk",
+  "keyword": "hudpleje",
+  "total": 13,
+  "passed": 0,
+  "results": {
+    "related_keywords": {
+      "success": false,
+      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "single_keyword": {
+      "success": false,
+      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "keyword_density": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "page_analysis": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "domain_data": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "loading_speed": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "backlink_data": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "new_backlinks": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "poor_backlinks": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "referral_domains": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "top_keywords": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "ai_seo_crawler": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    },
+    "ai_search_analyzer": {
+      "success": false,
+      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+    }
+  }
+}

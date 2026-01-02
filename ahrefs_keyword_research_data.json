@@ -1,0 +1,164 @@
+{
+  "domain": "simplybeyond.dk",
+  "country": "dk",
+  "timestamp": "2026-01-02 15:31:34",
+  "keywords_analyzed": 13,
+  "keyword_data": {
+    "silke": {
+      "success": true,
+      "data": {
+        "keyword": "silke",
+        "searchVolume": 1400,
+        "clicks": 743,
+        "cpc": 0.25,
+        "difficulty": 1,
+        "globalSearchVolume": 14000,
+        "trafficPotential": 700
+      }
+    },
+    "silke bonnet": {
+      "success": true,
+      "data": {
+        "keyword": "silke bonnet",
+        "searchVolume": 1500,
+        "clicks": 0,
+        "cpc": 0.4,
+        "difficulty": 0,
+        "globalSearchVolume": 2300,
+        "trafficPotential": 2000
+      }
+    },
+    "sove briller": {
+      "success": true,
+      "data": {
+        "keyword": "sove briller",
+        "searchVolume": 150,
+        "clicks": 0,
+        "cpc": 0.6,
+        "difficulty": 2,
+        "globalSearchVolume": 200,
+        "trafficPotential": 250
+      }
+    },
+    "silke sovemaske": {
+      "success": true,
+      "data": {
+        "keyword": "silke sovemaske",
+        "searchVolume": 350,
+        "clicks": 0,
+        "cpc": 0.5,
+        "difficulty": 0,
+        "globalSearchVolume": 500,
+        "trafficPotential": 450
+      }
+    },
+    "silk sleep mask": {
+      "success": true,
+      "data": {
+        "keyword": "silk sleep mask",
+        "searchVolume": 50,
+        "clicks": 0,
+        "cpc": null,
+        "difficulty": 0,
+        "globalSearchVolume": 8100,
+        "trafficPotential": 30
+      }
+    },
+    "silk bonnet": {
+      "success": true,
+      "data": {
+        "keyword": "silk bonnet",
+        "searchVolume": 1400,
+        "clicks": 0,
+        "cpc": 0.45,
+        "difficulty": 0,
+        "globalSearchVolume": 77000,
+        "trafficPotential": 600
+      }
+    },
+    "hair bonnet": {
+      "success": true,
+      "data": {
+        "keyword": "hair bonnet",
+        "searchVolume": 300,
+        "clicks": 0,
+        "cpc": 0.45,
+        "difficulty": 0,
+        "globalSearchVolume": 34000,
+        "trafficPotential": 2100
+      }
+    },
+    "k\u00f8b silke sovemaske": {
+      "success": true,
+      "data": {
+        "keyword": "k\u00f8b silke sovemaske",
+        "searchVolume": 0,
+        "clicks": 0,
+        "cpc": null,
+        "difficulty": null,
+        "globalSearchVolume": null,
+        "trafficPotential": null
+      }
+    },
+    "bedste sovemaske": {
+      "success": true,
+      "data": {
+        "keyword": "bedste sovemaske",
+        "searchVolume": 250,
+        "clicks": 354,
+        "cpc": 0.6,
+        "difficulty": 0,
+        "globalSearchVolume": 350,
+        "trafficPotential": 400
+      }
+    },
+    "silke pudebetr\u00e6k": {
+      "success": true,
+      "data": {
+        "keyword": "silke pudebetr\u00e6k",
+        "searchVolume": 2600,
+        "clicks": 5003,
+        "cpc": 0.5,
+        "difficulty": 0,
+        "globalSearchVolume": 2900,
+        "trafficPotential": 3300
+      }
+    },
+    "sovemaske til bedre s\u00f8vn": {
+      "success": true,
+      "data": {
+        "keyword": "sovemaske til bedre s\u00f8vn",
+        "searchVolume": 0,
+        "clicks": 0,
+        "cpc": null,
+        "difficulty": null,
+        "globalSearchVolume": 0,
+        "trafficPotential": null
+      }
+    },
+    "allergivenlig sovemaske": {
+      "success": true,
+      "data": {
+        "keyword": "allergivenlig sovemaske",
+        "searchVolume": 0,
+        "clicks": 0,
+        "cpc": null,
+        "difficulty": null,
+        "globalSearchVolume": null,
+        "trafficPotential": null
+      }
+    },
+    "mulberry silke": {
+      "success": true,
+      "data": {
+        "keyword": "mulberry silke",
+        "searchVolume": 150,
+        "clicks": 191,
+        "cpc": 0.35,
+        "difficulty": 0,
+        "globalSearchVolume": 350,
+        "trafficPotential": 30
+      }
+    }
+  }
+}

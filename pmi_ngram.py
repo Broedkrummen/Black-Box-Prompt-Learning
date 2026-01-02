@@ -7,6 +7,17 @@ import numpy
 from transformers import (
     AutoTokenizer, 
 )
+from opentelemetry import trace
+from opentelemetry.sdk.trace import TracerProvider
+from opentelemetry.sdk.trace.export import BatchSpanProcessor
+from opentelemetry.exporter.otlp.proto.http.trace_exporter import OTLPSpanExporter
+
+# Set up tracing
+trace.set_tracer_provider(TracerProvider())
+trace.get_tracer_provider().add_span_processor(
+    BatchSpanProcessor(OTLPSpanExporter(endpoint="http://localhost:4318"))
+)
+
 tokenizer = AutoTokenizer.from_pretrained("roberta-large")
 
 class FindNgrams:

@@ -1,0 +1,31 @@
+{
+  "domain": "simplybeyond.dk",
+  "timestamp": "2026-01-02 17:59:04",
+  "summary": {
+    "total": 5,
+    "passed": 1,
+    "failed": 4
+  },
+  "results": {
+    "moz": {
+      "success": false,
+      "data": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "ahrefs": {
+      "success": false,
+      "data": "{'message': \"Endpoint '/domain-rating/' does not exist\"}"
+    },
+    "similarweb": {
+      "success": false,
+      "data": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "seo_api": {
+      "success": true,
+      "data": "{'backlinks': {'success': True, 'data': {'overview': {'domainRating': 14, 'urlRating': 0, 'backlinks': 193, 'referringDomains': 37, 'dofollowBacklinks': {'percentage': 100, 'count': 193}, 'dofollowReferringDomains': {'percentage': 100, 'count': 37}}, 'backlinks': [{'anchor': 'dokumenterede metoder til glattere hud', 'domainRating': 11, 'redirectChain': [], 'textPost': 'kr\u00e6ver konsistens men giver naturlige og varige resultater uden bivirkninger.', 'textPre': 'Disse', 'title': 'Fjern rynker p\u00e5 3 minutter \u2013 hurtig guide hos Nutidensmor.dk', 'urlFrom': 'https://nutidensmor.dk/fjern-rynker-paa-3-minutter/', 'urlTo': 'https://simplybeyond.dk/blogs/hudpleje/hvad-virker-mod-rynker-5-ting-du-selv-kan-goere', 'inRendered': False, 'inRaw': True}, {'anchor': 'heatless curls', 'domainRating': 61, 'redirectChain': [], 'textPost': 'i silke, da det b\u00e5de er sk\u00e5nsomt mod h\u00e5ret og', 'textPre': 'l\u00e6gges langs h\u00e5r l\u00e6ngderne, hvorefter h\u00e5ret rulles omkring. Mange v\u00e6lger', 'title': 'Heatless styling: Hvorfor"
+    },
+    "google_keywords": {
+      "success": false,
+      "data": "{'message': 'You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/rhmueed/api/google-keyword-insight1'}"
+    }
+  }
+}

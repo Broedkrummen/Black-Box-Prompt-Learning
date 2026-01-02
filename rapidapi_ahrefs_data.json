@@ -1,0 +1,14 @@
+{
+  "domain": "simplybeyond.dk",
+  "timestamp": "2026-01-02 15:08:37",
+  "basic_metrics": {
+    "success": true,
+    "data": {
+      "domainRating": 14,
+      "ahRank": 11547561
+    }
+  },
+  "backlinks": null,
+  "referring_domains": null,
+  "anchors": null
+}

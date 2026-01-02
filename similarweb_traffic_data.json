@@ -1,0 +1,152 @@
+{
+  "domain": "simplybeyond.dk",
+  "timestamp": "2026-01-02 15:23:26",
+  "traffic_data": {
+    "Visits": 1648
+  },
+  "website_details": {
+    "Domain": "simplybeyond.dk",
+    "Category": "",
+    "SnapshotDate": "2025-11-01T00:00:00+00:00",
+    "Description": "F\u00e5 en uforstyrret nattes\u00f8vn med Silke Sovemaske, der er lavet af 6A mulberry-silke. Oplev silkens bl\u00f8dhed og allergivenlige egenskaber i nat!",
+    "Images": {
+      "Favicon": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=2&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840",
+      "Smartphone": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=4&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840",
+      "Desktop": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=1&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840"
+    },
+    "Title": "Silke Sovemaske"
+  },
+  "all_insights": {
+    "SEOInsights": {
+      "TopKeywords": [
+        {
+          "CPC": 0.97,
+          "Volume": 5430,
+          "Name": "hair bonnet",
+          "EstimatedValue": 0
+        },
+        {
+          "CPC": 0.25,
+          "Volume": 4010,
+          "Name": "silke",
+          "EstimatedValue": 0
+        },
+        {
+          "CPC": 1.85,
+          "Volume": 2840,
+          "Name": "beyound",
+          "EstimatedValue": 0
+        },
+        {
+          "CPC": 1.04,
+          "Volume": 420,
+          "Name": "silke bonnet",
+          "EstimatedValue": 0
+        },
+        {
+          "CPC": null,
+          "Volume": 170,
+          "Name": "sove briller",
+          "EstimatedValue": 0
+        }
+      ]
+    },
+    "SnapshotDate": "2025-11-01T00:00:00+00:00",
+    "Traffic": {
+      "Visits": {
+        "2025-09-01": 989,
+        "2025-11-01": 1648,
+        "2025-10-01": 647
+      },
+      "TopCountryShares": {
+        "DK": 1
+      },
+      "Sources": {
+        "Paid Referrals": 0.02,
+        "Referrals": 0.15,
+        "Social": 0.06,
+        "Direct": 0.34,
+        "Search": 0.42,
+        "Mail": 0
+      },
+      "IsDataFromGa": false,
+      "Engagement": {
+        "TimeOnSite": 22.84,
+        "BounceRate": 0.34,
+        "PagesPerVisit": 1.62
+      }
+    },
+    "WebsiteDetails": {
+      "Domain": "simplybeyond.dk",
+      "Category": "",
+      "Description": "F\u00e5 en uforstyrret nattes\u00f8vn med Silke Sovemaske, der er lavet af 6A mulberry-silke. Oplev silkens bl\u00f8dhed og allergivenlige egenskaber i nat!",
+      "Images": {
+        "Favicon": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=2&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840",
+        "Smartphone": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=4&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840",
+        "Desktop": "https://site-images.similarcdn.com/image?url=simplybeyond.dk&t=1&s=1&h=68da462a8441b6bab4c229782fd2484f27c2a22fa09bf4fd04a0d31d048a6840"
+      },
+      "Title": "Silke Sovemaske"
+    },
+    "Rank": {
+      "CountryRank": {
+        "Country": "DK",
+        "Rank": 87258
+      },
+      "CategoryRank": {
+        "Rank": null,
+        "Category": null
+      },
+      "GlobalRank": 8194346
+    }
+  },
+  "rank_data": {
+    "SnapshotDate": "2025-11-01T00:00:00+00:00",
+    "CountryRank": {
+      "Country": "DK",
+      "Rank": 87258
+    },
+    "CategoryRank": {
+      "Rank": null,
+      "Category": null
+    },
+    "GlobalRank": 8194346
+  },
+  "seo_data": {
+    "SnapshotDate": "2025-11-01T00:00:00+00:00",
+    "TopKeywords": [
+      {
+        "CPC": 0.97,
+        "Volume": 5430,
+        "Name": "hair bonnet",
+        "EstimatedValue": 0
+      },
+      {
+        "CPC": 0.25,
+        "Volume": 4010,
+        "Name": "silke",
+        "EstimatedValue": 0
+      },
+      {
+        "CPC": 1.85,
+        "Volume": 2840,
+        "Name": "beyound",
+        "EstimatedValue": 0
+      },
+      {
+        "CPC": 1.04,
+        "Volume": 420,
+        "Name": "silke bonnet",
+        "EstimatedValue": 0
+      },
+      {
+        "CPC": null,
+        "Volume": 170,
+        "Name": "sove briller",
+        "EstimatedValue": 0
+      }
+    ]
+  },
+  "similar_sites": {
+    "error": "NO_INFO"
+  }
+}

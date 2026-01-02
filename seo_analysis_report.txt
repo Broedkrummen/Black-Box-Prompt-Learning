@@ -1,0 +1,61 @@
+================================================================================
+SEO ANALYSIS REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total pages analyzed: 158
+
+TITLE ANALYSIS:
+  - Pages without title: 0
+  - Pages with short titles (<30 chars): 11
+  - Pages with long titles (>60 chars): 77
+
+META DESCRIPTION ANALYSIS:
+  - Pages without meta description: 12
+  - Pages with short descriptions (<120 chars): 52
+  - Pages with long descriptions (>160 chars): 6
+
+H1 TAG ANALYSIS:
+  - Pages without H1: 0
+  - Pages with multiple H1s: 158
+
+IMAGE ANALYSIS:
+  - Total images: 4373
+  - Images without alt text: 9
+
+LINK ANALYSIS:
+  - Total internal links: 29556
+  - Total external links: 980
+  - Average internal links per page: 187.1
+  - Average external links per page: 6.2
+
+TOP 10 EXTERNAL DOMAINS:
+  - shopify.com: 316 links
+  - www.instagram.com: 158 links
+  - www.tiktok.com: 158 links
+  - www.facebook.com: 158 links
+  - www.shopify.com: 158 links
+  - www.jtouchofstyle.com: 6 links
+  - www.sleepfoundation.org: 3 links
+  - www.healthline.com: 3 links
+  - return.shipmondo.com: 2 links
+  - www.cosmopolitan.com: 2 links
+
+================================================================================
+CRITICAL ISSUES TO FIX
+================================================================================
+
+⚠️  12 pages are missing meta descriptions:
+  - https://simplybeyond.dk/pages/ofte-stillede-spoergsmaal
+  - https://simplybeyond.dk/blogs/guides
+  - https://simplybeyond.dk/blogs/gaver
+  - https://simplybeyond.dk/blogs/rutiner
+  - https://simplybeyond.dk/blogs/skoenhed
+  - https://simplybeyond.dk/blogs/silke
+  - https://simplybeyond.dk/blogs/haarpleje
+  - https://simplybeyond.dk/blogs/silke-pleje
+  - https://simplybeyond.dk/blogs/sovemiljoe
+  - https://simplybeyond.dk/blogs/hudpleje
+  - https://simplybeyond.dk/blogs/soevn
+  - https://simplybeyond.dk/blogs/allergi
