@@ -1,0 +1,1630 @@
+{
+  "vebapi": {
+    "page_analysis": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "ai_search_analyzer": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "loading_speed": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "domain_data": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "backlink_data": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "new_backlinks": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "referral_domains": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "ai_seo_crawler": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "top_keywords": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "poor_backlinks": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "keyword_density": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "keyword_research": {
+      "success": false,
+      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "single_keyword": {
+      "success": false,
+      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    }
+  },
+  "rapidapi_seo": {
+    "seox_keywords": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_links": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_sitemap": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_seo": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_ssl": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_dns": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "ai_scraper": {
+      "success": true,
+      "data": {
+        "error": "url is required"
+      }
+    },
+    "moz_dapa": {
+      "success": true,
+      "data": {
+        "domain_authority": 9,
+        "external_nofollow_urls_to_url": "-1",
+        "external_urls_to_url": 1,
+        "page_authority": 10,
+        "spam_score": 3
+      }
+    },
+    "seo_keyword_research": {
+      "success": true,
+      "data": {
+        "status": "success",
+        "results": {
+          "title": "silkeprodukter til h\u00e5r & hud| luksus, glathed og bedre s\u00f8vn | simply beyond",
+          "description": "fork\u00e6l h\u00e5r og hud med 100% mulberry silke. f\u00e5 mindre krus, f\u00e6rre soverynker og dybere s\u00f8vn. v\u00e6lg silke pudebetr\u00e6k, sovemasker og gavepakker i luksuskvalitet.",
+          "site": null,
+          "words": [
+            {
+              "word": "silke",
+              "weight": "308.6",
+              "occurrences": 133,
+              "percent": "100.0%",
+              "inTitle": false,
+              "inDescription": true
+            },
+            {
+              "word": "farvevariant",
+              "weight": "18.8",
+              "occurrences": 50,
+              "percent": "6.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "sovemaske",
+              "weight": "12.0",
+              "occurrences": 40,
+              "percent": "3.9%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "pudebetr\u00e6k",
+              "weight": "24.4",
+              "occurrences": 28,
+              "percent": "7.9%",
+              "inTitle": false,
+              "inDescription": true
+            },
+            {
+              "word": "heatless",
+              "weight": "4.3",
+              "occurrences": 24,
+              "percent": "1.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "bonnet",
+              "weight": "3.6",
+              "occurrences": 22,
+              "percent": "1.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "heatless curls",
+              "weight": "3.0",
+              "occurrences": 20,
+              "percent": "1.0%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke pudebetr\u00e6k",
+              "weight": "16.2",
+              "occurrences": 20,
+              "percent": "5.3%",
+              "inTitle": false,
+              "inDescription": true
+            },
+            {
+              "word": "curls",
+              "weight": "3.0",
+              "occurrences": 20,
+              "percent": "1.0%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "scrunchie",
+              "weight": "2.7",
+              "occurrences": 19,
+              "percent": "0.9%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hurtigt",
+              "weight": "2.4",
+              "occurrences": 18,
+              "percent": "0.8%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke sovemaske",
+              "weight": "2.4",
+              "occurrences": 18,
+              "percent": "0.8%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "sovemaske farvevariant",
+              "weight": "1.9",
+              "occurrences": 16,
+              "percent": "0.6%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hurtigt k\u00f8b",
+              "weight": "1.9",
+              "occurrences": 16,
+              "percent": "0.6%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke scrunchie",
+              "weight": "1.9",
+              "occurrences": 16,
+              "percent": "0.6%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silket\u00f8rkl\u00e6de",
+              "weight": "1.7",
+              "occurrences": 15,
+              "percent": "0.6%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "pink",
+              "weight": "1.7",
+              "occurrences": 15,
+              "percent": "0.6%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "deluxe",
+              "weight": "1.3",
+              "occurrences": 13,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "deluxe sovemaske",
+              "weight": "1.3",
+              "occurrences": 13,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "levering",
+              "weight": "1.3",
+              "occurrences": 13,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hurtig",
+              "weight": "1.3",
+              "occurrences": 13,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke bonnet",
+              "weight": "1.1",
+              "occurrences": 12,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "virkelig",
+              "weight": "1.1",
+              "occurrences": 12,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant pink",
+              "weight": "1.1",
+              "occurrences": 12,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "simply",
+              "weight": "13.1",
+              "occurrences": 12,
+              "percent": "4.2%",
+              "inTitle": true,
+              "inDescription": false
+            },
+            {
+              "word": "produkter",
+              "weight": "1.1",
+              "occurrences": 12,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "mulberry",
+              "weight": "9.0",
+              "occurrences": 12,
+              "percent": "2.9%",
+              "inTitle": false,
+              "inDescription": true
+            },
+            {
+              "word": "hurtig levering",
+              "weight": "1.1",
+              "occurrences": 12,
+              "percent": "0.4%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "beyond",
+              "weight": "11.9",
+              "occurrences": 11,
+              "percent": "3.9%",
+              "inTitle": true,
+              "inDescription": false
+            },
+            {
+              "word": "ocean",
+              "weight": "0.9",
+              "occurrences": 11,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "kvalitet",
+              "weight": "0.9",
+              "occurrences": 11,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "khaki",
+              "weight": "0.9",
+              "occurrences": 11,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "green",
+              "weight": "0.9",
+              "occurrences": 11,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "ocean green",
+              "weight": "0.9",
+              "occurrences": 11,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "simply beyond",
+              "weight": "11.9",
+              "occurrences": 11,
+              "percent": "3.9%",
+              "inTitle": true,
+              "inDescription": false
+            },
+            {
+              "word": "mulberry silke",
+              "weight": "8.2",
+              "occurrences": 11,
+              "percent": "2.7%",
+              "inTitle": false,
+              "inDescription": true
+            },
+            {
+              "word": "silke pudebetr\u00e6k farvevariant",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "scrunchie farvevariant",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hurtigt k\u00f8b silke",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "k\u00f8b silke",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke scrunchie farvevariant",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "pudebetr\u00e6k farvevariant",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke sovemaske farvevariant",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "pink silke",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant khaki",
+              "weight": "0.8",
+              "occurrences": 10,
+              "percent": "0.3%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "coffee",
+              "weight": "0.6",
+              "occurrences": 9,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "s\u00f8vn",
+              "weight": "15.5",
+              "occurrences": 9,
+              "percent": "5.0%",
+              "inTitle": true,
+              "inDescription": true
+            },
+            {
+              "word": "farvevariant pink silke",
+              "weight": "0.6",
+              "occurrences": 9,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "gratis",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "s\u00f8vnpakke",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "kvalitet hurtig",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "anbefaling",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke s\u00f8vnpakke",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "klar anbefaling",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "fragt",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant coffee",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "spar",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "klar",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "mere",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant ocean",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "t\u00f8rkl\u00e6de",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant ocean green",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "khaki silke",
+              "weight": "0.5",
+              "occurrences": 8,
+              "percent": "0.2%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "herfra",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "mit nye",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "kvalitet hurtig levering",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "anbefaling herfra",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant khaki silke",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "over",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "klar anbefaling herfra",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "coffee silke",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "cream",
+              "weight": "0.4",
+              "occurrences": 7,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "alle",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke heatless",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "shop",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "vores",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "gavepakke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hair",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hair bonnet",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silke gavepakke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "bonnet silke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "350,00",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "vis mere",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "silket\u00f8rkl\u00e6de farvevariant",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant coffee silke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "green silke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "spar til hurtigt",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant cream",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "cream silke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "ocean green silke",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "til hurtigt",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "spar til",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "deluxe sovemaske farvevariant",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "til hurtigt k\u00f8b",
+              "weight": "0.3",
+              "occurrences": 6,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hvad",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "gratis fragt",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "hovedbetr\u00e6k",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "farvevariant cream silke",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "efter",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            },
+            {
+              "word": "h\u00e5ret",
+              "weight": "0.2",
+              "occurrences": 5,
+              "percent": "0.1%",
+              "inTitle": false,
+              "inDescription": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "rapidapi_keywords": {
+    "semrush_volume": {
+      "success": true,
+      "data": {
+        "Keyword Overview": {
+          "global": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "1.3k",
+              "CPC": "$0.56",
+              "Keyword Difficulty %": "76%",
+              "Keyword Difficulty Label": "Hard",
+              "Keyword Difficulty Recommendation": "Ranking in GLOBAL will require 617+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Keyword Intent": "Informational, Commercial",
+              "intent_signals": {},
+              "intent_raw_scores": {
+                "Informational": 0.04,
+                "Navigational": 0.0,
+                "Transactional": 0.01,
+                "Investigational": 0.0,
+                "Commercial": 0.02,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "1.9k"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "2.4k"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "2.9k"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "2.9k"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "2.4k"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "2.4k"
+                }
+              ]
+            }
+          ],
+          "other": "393",
+          "DK": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "880",
+              "CPC": "$5.00",
+              "Keyword Difficulty %": "53%",
+              "Keyword Difficulty Label": "Medium",
+              "Keyword Difficulty Recommendation": "Ranking in DK will require 377+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "High",
+              "Competitive Density Score": 0.93,
+              "Keyword Intent": "Informational",
+              "intent_raw_scores": {
+                "Informational": 0.02,
+                "Navigational": 0.0,
+                "Transactional": 0.01,
+                "Investigational": 0.0,
+                "Commercial": 0.01,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "590"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "880"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "1.6k"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "590"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "1.0k"
+                }
+              ],
+              "serp_results": [],
+              "serp_features": {
+                "dominant_feature": "Standard Organic",
+                "feature_breakdown": {}
+              },
+              "content_gap_score": 0,
+              "ctr_potential_score": 0,
+              "combined_intent_distribution": {
+                "Informational": 0.3,
+                "Navigational": 0.0,
+                "Transactional": 0.15,
+                "Investigational": 0.0,
+                "Commercial": 0.15,
+                "Brand": 0.0
+              },
+              "monetization_score_0_to_10": 3.0
+            }
+          ],
+          "UK": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "10",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "59%",
+              "Keyword Difficulty Label": "Hard",
+              "Keyword Difficulty Recommendation": "Ranking in UK will require 679+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Medium",
+              "Competitive Density Score": 0.46,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "10"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "10"
+                }
+              ]
+            }
+          ],
+          "US": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "10",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "32%",
+              "Keyword Difficulty Label": "Medium",
+              "Keyword Difficulty Recommendation": "Ranking in US will require 320+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "0"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "0"
+                }
+              ]
+            }
+          ],
+          "IN": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "7",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "17%",
+              "Keyword Difficulty Label": "Easy",
+              "Keyword Difficulty Recommendation": "Ranking in IN will require 76+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "10"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "10"
+                }
+              ]
+            }
+          ],
+          "AU": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "0",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "16%",
+              "Keyword Difficulty Label": "Easy",
+              "Keyword Difficulty Recommendation": "Ranking in AU will require 95+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": []
+            }
+          ]
+        },
+        "Last update": "2025-12-24"
+      }
+    },
+    "semrush_research": {
+      "success": true,
+      "data": {
+        "result": [
+          {
+            "keyword": "silke sovemaske",
+            "avg_monthly_searches": 880,
+            "Low CPC": "$0.40",
+            "High CPC": "$1.13",
+            "competition_index": 100,
+            "competition_value": "high",
+            "monthly_search_volumes": [
+              {
+                "month": "December",
+                "year": 2024,
+                "searches": 1000
+              },
+              {
+                "month": "January",
+                "year": 2025,
+                "searches": 720
+              },
+              {
+                "month": "February",
+                "year": 2025,
+                "searches": 590
+              },
+              {
+                "month": "March",
+                "year": 2025,
+                "searches": 720
+              },
+              {
+                "month": "April",
+                "year": 2025,
+                "searches": 880
+              },
+              {
+                "month": "May",
+                "year": 2025,
+                "searches": 1000
+              },
+              {
+                "month": "June",
+                "year": 2025,
+                "searches": 1600
+              },
+              {
+                "month": "July",
+                "year": 2025,
+                "searches": 1000
+              },
+              {
+                "month": "August",
+                "year": 2025,
+                "searches": 1300
+              },
+              {
+                "month": "September",
+                "year": 2025,
+                "searches": 720
+              },
+              {
+                "month": "October",
+                "year": 2025,
+                "searches": 590
+              },
+              {
+                "month": "November",
+                "year": 2025,
+                "searches": 1000
+              }
+            ],
+            "intent": [
+              "commercial",
+              "informational"
+            ],
+            "intent_confidence": 0.52,
+            "advice": [
+              "Keyword freshness is low: produce updated content regularly to maintain relevance.",
+              "Low search volume: consider content diversification and long-term SEO strategies rather than short-term paid campaigns."
+            ],
+            "content_gap_score": 0.589,
+            "estimated_ctr": 0.28,
+            "keyword_freshness": 0.0,
+            "serp_feature_type": "Standard Organic",
+            "monetization_score": 4.19
+          },
+          {
+            "keyword": "holistic silk sovemaske",
+            "avg_monthly_searches": 10,
+            "Low CPC": null,
+            "High CPC": null,
+            "competition_index": 100,
+            "competition_value": "high",
+            "monthly_search_volumes": [
+              {
+                "month": "December",
+                "year": 2024,
+                "searches": 20
+              },
+              {
+                "month": "January",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "February",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "March",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "April",
+                "year": 2025,
+                "searches": 20
+              },
+              {
+                "month": "May",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "June",
+                "year": 2025,
+                "searches": 20
+              },
+              {
+                "month": "July",
+                "year": 2025,
+                "searches": 30
+              },
+              {
+                "month": "August",
+                "year": 2025,
+                "searches": 20
+              },
+              {
+                "month": "September",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "October",
+                "year": 2025,
+                "searches": 10
+              },
+              {
+                "month": "November",
+                "year": 2025,
+                "searches": 10
+              }
+            ],
+            "intent": [
+              "informational",
+              "commercial"
+            ],
+            "intent_confidence": 0.5,
+            "advice": [
+              "Keyword freshness is low: produce updated content regularly to maintain relevance.",
+              "Low search volume: consider content diversification and long-term SEO strategies rather than short-term paid campaigns."
+            ],
+            "content_gap_score": 0.557,
+            "estimated_ctr": 0.28,
+            "keyword_freshness": 0.0,
+            "serp_feature_type": "Standard Organic",
+            "monetization_score": 5.56
+          }
+        ]
+      }
+    },
+    "semrush_questions": {
+      "success": true,
+      "data": {
+        "detail": "Not Found"
+      }
+    },
+    "g_keyinsight": {
+      "success": true,
+      "data": {
+        "message": "Endpoint '/api/v1/keyword-suggestions' does not exist"
+      }
+    }
+  },
+  "rapidapi_other": {
+    "historical_traffic": {
+      "success": true,
+      "data": {
+        "message": "API doesn't exists"
+      }
+    },
+    "seo_audit": {
+      "success": true,
+      "data": {
+        "message": "Endpoint '/seo-audit' does not exist"
+      }
+    },
+    "google_rank": {
+      "success": true,
+      "data": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "website_utilities": {
+      "success": true,
+      "data": {
+        "host": "simplybeyond.dk",
+        "port": 443,
+        "time": "4.982",
+        "success": true
+      }
+    },
+    "google_trends": {
+      "success": true,
+      "data": {
+        "message": "You are not subscribed to this API."
+      }
+    }
+  }
+}

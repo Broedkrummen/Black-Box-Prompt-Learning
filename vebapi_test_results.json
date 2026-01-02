@@ -2,59 +2,59 @@
   "domain": "simplybeyond.dk",
   "keyword": "hudpleje",
   "total": 13,
-  "passed": 0,
+  "passed": 13,
   "results": {
-    "related_keywords": {
-      "success": false,
-      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    "keyword_research": {
+      "success": true,
+      "data": "[{'text': 'hudpleje', 'cpc': '3.20', 'vol': 12253, 'v': 12253, 'competition': 'Very high', 'score': '0.64'}, {'text': 'haderslev hudpleje', 'cpc': '7.20', 'vol': 5443, 'v': 5443, 'competition': 'High', 'score': '1.44'}, {'text': 'hudpleje roskilde', 'cpc': '6.80', 'vol': 5737, 'v': 5737, 'competition': 'High', 'score': '1.36'}, {'text': 'vedb\u00e6k hudpleje', 'cpc': '6.40', 'vol': 6130, 'v': 6130, 'competition': 'Medium', 'score': '1.28'}, {'text': 'hudplejecentret greve', 'cpc': '8.40', 'vol': 4659"
     },
     "single_keyword": {
-      "success": false,
-      "data": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+      "success": true,
+      "data": "{'text': 'hudpleje', 'cpc': '3.20', 'vol': 12253, 'v': 12253, 'competition': 'Very high', 'score': '0.64'}"
     },
     "keyword_density": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+      "success": true,
+      "data": "{'status': 'success', 'results': {'title': 'silkeprodukter til h\u00e5r & hud| luksus, glathed og bedre s\u00f8vn | simply beyond', 'description': 'fork\u00e6l h\u00e5r og hud med 100% mulberry silke. f\u00e5 mindre krus, f\u00e6rre soverynker og dybere s\u00f8vn. v\u00e6lg silke pudebetr\u00e6k, sovemasker og gavepakker i luksuskvalitet.', 'site': None, 'words': [{'word': 'silke', 'weight': '308.6', 'occurrences': 133, 'percent': '100.0%', 'inTitle': False, 'inDescription': True}, {'word': 'farvevariant', 'weight': '18.8', 'occurrences': "
     },
     "page_analysis": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "domain_data": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "loading_speed": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "backlink_data": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "new_backlinks": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "poor_backlinks": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "referral_domains": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "top_keywords": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
-    },
-    "ai_seo_crawler": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+      "success": true,
+      "data": "{}"
     },
     "ai_search_analyzer": {
-      "success": false,
-      "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <link rel=\"shortcut icon\" href=\"/1favicon.png\" type=\"image/x-icon\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\n  <meta name=\"theme-color\" content=\"#0ea5e9\" />\n\n  <!-- Tailwind CSS CDN -->\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <script>\n    tailwind.config = {\n      theme:"
+      "success": true,
+      "data": "{'url': 'https://simplybeyond.dk', 'ai_scrapable': True, 'content_quality_score': 100, 'flags': {'title': True, 'headings': 18, 'paragraphs': 63, 'lists': 11, 'tables': 0, 'schema_data_found': True, 'ai_blocking': False}, 'suggestions': []}"
+    },
+    "ai_seo_crawler": {
+      "success": true,
+      "data": "{'url': 'simplybeyond.dk', 'robots_found': False, 'ai_bots_allowed': True, 'details': 'robots.txt not found, assuming all bots are allowed'}"
+    },
+    "loading_speed": {
+      "success": true,
+      "data": "{'data': {'url': 'http://simplybeyond.dk/', 'content_type': 'text/html', 'http_code': 301, 'header_size': 842, 'request_size': 54, 'filetime': -1, 'ssl_verify_result': 0, 'redirect_count': 0, 'total_time': 0.02455, 'namelookup_time': 0.000714, 'connect_time': 0.006025, 'pretransfer_time': 0.006109, 'size_upload': 0, 'size_download': 167, 'speed_download': 6958, 'speed_upload': 0, 'download_content_length': 167, 'upload_content_length': -1, 'starttransfer_time': 0.024457, 'redirect_time': 0, 'red"
+    },
+    "domain_data": {
+      "success": true,
+      "data": "{'age': {'domainAge': 'Not Available', 'createdDate': 'Not Available', 'updatedDate': 'Not Available', 'expiredDate': 'Not Available'}, 'whois': ''}"
+    },
+    "backlink_data": {
+      "success": true,
+      "data": "{'counts': {'backlinks': {'total': 28, 'doFollow': 25, 'fromHomePage': 1, 'doFollowFromHomePage': 0, 'text': 28, 'toHomePage': 8}, 'domains': {'total': 13, 'doFollow': 11, 'fromHomePage': 1, 'toHomePage': 6}, 'ips': None, 'cBlocks': None, 'anchors': None, 'anchorUrls': None, 'topTLD': None, 'topCountry': None, 'topAnchorsByBacklinks': None, 'topAnchorsByDomains': None, 'topAnchorUrlsByBacklinks': None, 'topAnchorUrlsByDomains': None}, 'backlinks': [{'url_from': 'https://akhabantulimbbg.blogspot."
+    },
+    "new_backlinks": {
+      "success": true,
+      "data": "{'backlinks': [{'url_from': 'https://analwebblims.blogspot.com/', 'url_to': 'https://simplybeyond.dk/', 'title': 'AnalWebblim', 'anchor': 'simplybeyond.dk', 'alt': '', 'nofollow': True, 'image': False, 'image_source': '', 'inlink_rank': 1, 'domain_inlink_rank': 1, 'first_seen': '2025-12-25', 'last_visited': '2025-12-25'}, {'url_from': 'https://e-magazine.dk/skoenhedsrutiner-om-natten-hvorfor-dit-sengetoej-er-vigtigere-end-du-tror/', 'url_to': 'https://simplybeyond.dk/', 'title': 'Sk\u00f8nhedsrutiner"
+    },
+    "poor_backlinks": {
+      "success": true,
+      "data": "{'backlinks': []}"
+    },
+    "referral_domains": {
+      "success": true,
+      "data": "{'referrers': [{'refdomain': 'nordjyske.dk', 'backlinks': 3, 'dofollow_backlinks': 3, 'first_seen': '2025-11-09', 'domain_inlink_rank': 81}, {'refdomain': 'sakt.dk', 'backlinks': 3, 'dofollow_backlinks': 3, 'first_seen': '2025-12-08', 'domain_inlink_rank': 47}, {'refdomain': 'ribo.dk', 'backlinks': 3, 'dofollow_backlinks': 3, 'first_seen': '2025-11-08', 'domain_inlink_rank': 42}, {'refdomain': 'elekcig.dk', 'backlinks': 3, 'dofollow_backlinks': 3, 'first_seen': '2025-11-08', 'domain_inlink_rank'"
+    },
+    "top_keywords": {
+      "success": true,
+      "data": "{'keywords': [{'countryCode': 'us', 'keyword': 'adventsgaver til hende', 'topRankedUrl': 'https://simplybeyond.dk/blogs/nyheder/adventsgaver-til-hende', 'rank': 20, 'rankChange': 0, 'searchVolume': None, 'rankingDifficulty': 2, 'seoClicks': 0, 'seoClicksChange': None, 'totalMonthlyClicks': None, 'broadCostPerClick': None, 'phraseCostPerClick': None, 'exactCostPerClick': None, 'paidCompetitors': 0, 'rankingHomepages': 10}, {'countryCode': 'us', 'keyword': '50 \u00e5rs f\u00f8dselsdag gave', 'topRankedUrl':"
     }
   }
 }

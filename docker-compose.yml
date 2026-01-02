@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  seo-dashboard:
+    build: .
+    container_name: seo-dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      - RAPIDAPI_KEY=${RAPIDAPI_KEY}
+      - VEBAPI_KEY=${VEBAPI_KEY}
+      - MONGODB_URI=mongodb://mongodb:27017/
+    depends_on:
+      - mongodb
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    networks:
+      - seo-network
+
+  mongodb:
+    image: mongo:7.0
+    container_name: seo-mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=seo_dashboard
+    volumes:
+      - mongodb_data:/data/db
+      - mongodb_config:/data/configdb
+    restart: unless-stopped
+    networks:
+      - seo-network
+
+volumes:
+  mongodb_data:
+    driver: local
+  mongodb_config:
+    driver: local
+
+networks:
+  seo-network:
+    driver: bridge

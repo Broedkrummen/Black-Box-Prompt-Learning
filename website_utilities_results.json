@@ -1,0 +1,9 @@
+{
+  "url": "https://example.com",
+  "port": "443",
+  "endpoint": "website-utilities-ping",
+  "result": {
+    "success": true,
+    "data": "{'host': 'example.com', 'port': '443', 'time': '17.739', 'success': True}"
+  }
+}

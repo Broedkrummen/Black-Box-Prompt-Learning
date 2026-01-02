@@ -270,6 +270,7 @@ def run_analysis(domain, location, language, use_sitemap=True, use_moz=True, use
         time.sleep(1)
 
         conn.request("GET", f"/api/seo/backlinkdata?website={domain}", headers=headers)
+        res = conn.getresponse()
     # SEO API
     if use_seo_api:
         status_text.text("📊 Analyzing backlinks...")

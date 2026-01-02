@@ -1,0 +1,8 @@
+{
+  "url": "https://example.com",
+  "endpoint": "seo-master-scan",
+  "result": {
+    "success": true,
+    "data": "{'content': {'performanceMetrics': {'firstContentfulPaint': '235ms', 'largestContentfulPaint': '235ms', 'firstMeaningfulPaint': 'N/A', 'speedIndex': '235ms', 'timeToInteractive': '235ms', 'totalBlockingTime': '0ms', 'cumulativeLayoutShift': '0', 'domSize': 'N/A', 'serverResponseTime': 'N/A', 'bootupTime': '0ms', 'mainThreadWork': '30ms', 'resourceSize': '636B', 'performanceScore': '100%', 'firstContentfulPaintScore': '100%', 'speedIndexScore': '100%', 'largestContentfulPaintScore': '100%', 'interactiveScore': '100%', 'totalBlockingTimeScore': '100%', 'cumulativeLayoutShiftScore': '100%'}, 'recommendations': []}, 'cacheTime': 1766748486256, 'url': 'https://example.com', 'settings': {'sections': ['performanceMetrics', 'recommendations']}, 'time': 1767383055239, 'status': 'success', 'message': 'Data retrieved from cache'}"
+  }
+}

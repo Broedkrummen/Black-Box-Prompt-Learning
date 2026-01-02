@@ -377,6 +377,26 @@ def analyze_vebapi_poor_backlinks(domain):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
+def analyze_vebapi_keyword_density(keyword, website):
+    """Analyze keyword density with VebAPI"""
+    try:
+        conn = http.client.HTTPSConnection("vebapi.com")
+        headers = {
+            'X-API-KEY': VEBAPI_KEY,
+            'Content-Type': 'application/json'
+        }
+        
+        conn.request("GET", f"/api/seo/keyworddensity?keyword={quote(keyword)}&website={website}", headers=headers)
+        res = conn.getresponse()
+        data = json.loads(res.read().decode("utf-8"))
+        
+        if res.status == 200:
+            return {"success": True, "data": data}
+        else:
+            return {"success": False, "error": data}
+    except Exception as e:
+        return {"success": False, "error": str(e)}
+
 def run_analysis(domain, location, language, use_sitemap=True, use_moz=True, use_ahrefs=True,
                  use_similarweb=True, use_seo_api=True, use_google=True, use_vebapi=True, vebapi_keyword=None):
     """Run selective analysis based on user choices"""
@@ -438,15 +458,11 @@ def run_analysis(domain, location, language, use_sitemap=True, use_moz=True, use
     if use_vebapi:
         status_text.text("🚀 Analyzing with VebAPI...")
         keyword = vebapi_keyword if vebapi_keyword else domain.split('.')[0]
-        
+
         results['vebapi'] = {
+            'keyword_research': analyze_vebapi_related_keywords(keyword, location),
             'single_keyword': analyze_vebapi_single_keyword(keyword, location),
-            'related_keywords': analyze_vebapi_related_keywords(keyword, location),
-            'backlink_data': analyze_vebapi_backlink_data(domain),
-            'referral_domains': analyze_vebapi_referral_domains(domain),
-            'top_keywords': analyze_vebapi_top_search_keywords(domain),
-            'ai_seo_checker': analyze_vebapi_ai_seo_checker(domain),
-            'poor_backlinks': analyze_vebapi_poor_backlinks(domain)
+            'keyword_density': analyze_vebapi_keyword_density(keyword, location)
         }
         current_progress += progress_increment
         progress_bar.progress(min(int(current_progress), 100))
@@ -719,3 +735,81 @@ if st.session_state.analysis_data:
                 ("Moz", data.get('moz', {}).get('success', False)),
                 ("Ahrefs", data.get('ahrefs', {}).get('success', False)),
                 ("SimilarWeb", data.get('similarweb', {}).get('success', False)),
+                ("SEO API", data.get('seo_api', {}).get('success', False)),
+                ("Google Keywords", data.get('google', {}).get('success', False)),
+                ("VebAPI", data.get('vebapi', {}).get('keyword_research', {}).get('success', False))
+            ]
+            
+            for api_name, status in apis:
+                if status:
+                    st.success(f"✅ {api_name}")
+                else:
+                    st.error(f"❌ {api_name}")
+    
+    # Export section
+    st.markdown("---")
+    st.subheader("📥 Export Data")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        if st.button("📄 Export as JSON", use_container_width=True):
+            json_str = json.dumps(data, indent=2)
+            st.download_button(
+                label="Download JSON",
+                data=json_str,
+                file_name=f"{domain}_seo_analysis.json",
+                mime="application/json"
+            )
+    
+    with col2:
+        if st.button("📊 Export Summary", use_container_width=True):
+            summary = f"""
+SEO Analysis Report for {domain}
+Generated: {time.strftime('%Y-%m-%d %H:%M:%S')}
+
+=== METRICS ===
+Domain Authority (Moz): {data.get('moz', {}).get('data', {}).get('domain_authority', 'N/A')}
+Domain Rating (Ahrefs): {data.get('ahrefs', {}).get('data', {}).get('domainRating', 'N/A')}
+Total Backlinks: {data.get('seo_api', {}).get('data', {}).get('overview', {}).get('backlinks', 'N/A')}
+Referring Domains: {data.get('seo_api', {}).get('data', {}).get('overview', {}).get('referringDomains', 'N/A')}
+Pages Indexed: {data.get('sitemap', {}).get('pages', 'N/A')}
+
+=== API STATUS ===
+"""
+            for api_name, status in apis:
+                summary += f"{api_name}: {'✅ Success' if status else '❌ Failed'}\n"
+            
+            st.download_button(
+                label="Download Summary",
+                data=summary,
+                file_name=f"{domain}_summary.txt",
+                mime="text/plain"
+            )
+
+else:
+    st.info("👈 Enter a domain and click 'Analyze Domain' to start")
+    
+    st.markdown("---")
+    st.markdown("### 🎯 Features")
+    st.markdown("""
+    - **Domain Authority** - Moz DA & Ahrefs DR metrics
+    - **Backlink Analysis** - Comprehensive backlink profile
+    - **Keyword Research** - Google keyword suggestions
+    - **Traffic Analysis** - SimilarWeb visitor data
+    - **Technical SEO** - Sitemap crawling & analysis
+    - **VebAPI Integration** - Additional SEO tools
+    - **Export Options** - JSON & text export
+    """)
+    
+    st.markdown("---")
+    st.markdown("### 📊 Supported APIs")
+    st.markdown("""
+    1. **Moz API** - Domain & Page Authority
+    2. **Ahrefs API** - Domain Rating & Backlinks
+    3. **SimilarWeb API** - Traffic & Engagement
+    4. **SEO API** - Backlink Analysis
+    5. **Google Keywords API** - Keyword Research
+    6. **VebAPI** - Comprehensive SEO Tools
+    7. **Custom Crawler** - Sitemap Analysis
+    """)

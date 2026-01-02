@@ -1,0 +1,1388 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "VebAPI - SEO & Keyword Research API",
+    "version": "1.0.0",
+    "description": "VebAPI provides SEO and keyword data such as search volume, CPC, competition, and SERP results."
+  },
+  "servers": [
+    {
+      "url": "https://vebapi.com/api",
+      "description": "Production API server"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Keyword Research",
+      "description": "Keyword research and analysis APIs"
+    },
+    {
+      "name": "On Page SEO",
+      "description": "On-page SEO analysis and website structure checks"
+    },
+    {
+      "name": "Youtube APIs",
+      "description": "Youtube APIs"
+    },
+    {
+      "name": "Backlink Analysis",
+      "description": "Backlink analysis and backlink data"
+    },
+    {
+      "name": "Domain Intelligence",
+      "description": "Domain age, WHOIS and registration information"
+    },
+    {
+      "name": "Website Screenshots",
+      "description": "Website screenshots for SEO reports, compliance verification, monitoring, and archiving"
+    },
+    {
+      "name": "VebAPI Insights",
+      "description": "Manage Your VebAPI Account"
+    }
+  ],
+  "paths": {
+    "/seo/keywordresearch": {
+      "get": {
+        "tags": [
+          "Keyword Research"
+        ],
+        "summary": "Keyword Research",
+        "description": "Fetch keyword ideas, volume, CPC, and competition data for a given keyword and country.",
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "description": "Keyword or phrase to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "email marketing"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "description": "Country code (e.g., us, in, uk)",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "us"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "text": "email marketing tools",
+                    "cpc": "8.40",
+                    "vol": 4655,
+                    "competition": "Medium",
+                    "score": "1.68"
+                  }
+                ]
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/singlekeyword": {
+      "get": {
+        "tags": [
+          "Keyword Research"
+        ],
+        "summary": "Keyword Research - Single",
+        "description": "Fetch CPC, monthly search volume, competition and relevance score for a single keyword and country.",
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "description": "Keyword or phrase to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "email marketing"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "description": "Country code (e.g., us, in, uk)",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "us"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "text": "email marketing",
+                  "cpc": "40.55",
+                  "vol": 22200,
+                  "v": 22200,
+                  "competition": "High",
+                  "score": "10.1375"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/keyworddensity": {
+      "get": {
+        "tags": [
+          "Keyword Research"
+        ],
+        "summary": "Keyword Density Checker",
+        "description": "Analyze a website for keyword density and extract rankable keywords with occurrence and metadata signals.",
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "description": "Seed keyword/context for analysis",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "gmax crm"
+            }
+          },
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "status": "success",
+                  "results": {
+                    "title": "codeconia -learn programming",
+                    "description": "programmer guide",
+                    "site": null,
+                    "words": [
+                      {
+                        "word": "smtp",
+                        "weight": "0.2",
+                        "occurrences": 2,
+                        "percent": "1.1%",
+                        "inTitle": false,
+                        "inDescription": false
+                      },
+                      {
+                        "word": "data laravel",
+                        "weight": "0.2",
+                        "occurrences": 2,
+                        "percent": "1.1%",
+                        "inTitle": false,
+                        "inDescription": false
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/analyze": {
+      "get": {
+        "tags": [
+          "On Page SEO"
+        ],
+        "summary": "On Page Analysis",
+        "description": "Perform a comprehensive on-page SEO analysis of a website including meta tags, headings, images, links, and structural issues.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or full URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful on-page analysis",
+            "content": {
+              "application/json": {
+                "example": {
+                  "basic": {
+                    "websiteurl": "codeconia.com",
+                    "title": "Codeconia -Learn Programming",
+                    "favicon": "http://www.google.com/s2/favicons?domain=codeconia.com"
+                  },
+                  "webtitle": {
+                    "title": "Codeconia -Learn Programming",
+                    "length": 28,
+                    "suggestion": "Title length is good."
+                  },
+                  "metadescription": {
+                    "description": "Programmer Guide",
+                    "length": 16,
+                    "suggestion": "Meta description is too short. Aim for 120-160 characters."
+                  },
+                  "metakeywords": {
+                    "keywords": null,
+                    "counts": 2,
+                    "suggestion": "Meta keywords not found (optional in modern SEO)."
+                  },
+                  "headings": {
+                    "h1": {
+                      "count": 1
+                    },
+                    "h2": {
+                      "count": 0
+                    },
+                    "h3": {
+                      "count": 0
+                    },
+                    "h4": {
+                      "count": 0
+                    },
+                    "h5": {
+                      "count": 25
+                    },
+                    "h6": {
+                      "count": 0
+                    },
+                    "suggestion": [
+                      "No H2 headings found. Add sub-headings for structure."
+                    ]
+                  },
+                  "sitemap_robots": [
+                    "robots.txt",
+                    "sitemap.xml"
+                  ],
+                  "iframe": {
+                    "count": 0,
+                    "suggestion": "No iframe usage. Good!"
+                  },
+                  "images": {
+                    "count": 52,
+                    "suggestion": "Too many images might affect load speed. Optimize images."
+                  },
+                  "links": {
+                    "count": 89,
+                    "suggestion": "There are broken or empty links. Clean them up."
+                  }
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/apipagechecker": {
+      "get": {
+        "tags": [
+          "On Page SEO"
+        ],
+        "summary": "AI Search Engine Analyzer",
+        "description": "Analyze a webpage to determine if its content is AI-friendly and ready for AI SEO.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or full URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "url": "https://codeconia.com",
+                  "ai_scrapable": true,
+                  "content_quality_score": 80,
+                  "flags": {
+                    "title": true,
+                    "headings": 1,
+                    "paragraphs": 61,
+                    "lists": 4,
+                    "tables": 0,
+                    "schema_data_found": true,
+                    "ai_blocking": false
+                  },
+                  "suggestions": [
+                    "Add more headings (H1-H3)."
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/aiseochecker": {
+      "get": {
+        "tags": [
+          "On Page SEO"
+        ],
+        "summary": "AI SEO Crawler Check",
+        "description": "Check whether a website allows AI bots (e.g., GPTBot, Google-Extended, PerplexityBot) based on robots.txt rules.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or full URL to check",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "url": "codeconia.com",
+                  "robots_found": true,
+                  "ai_access": {
+                    "GPTBot": true,
+                    "ChatGPT-User": true,
+                    "Google-Extended": true,
+                    "AnthropicBot": true,
+                    "ClaudeBot": true,
+                    "PerplexityBot": true
+                  },
+                  "ai_bots_allowed": true,
+                  "suggestions": [
+                    "Your site is currently open for AI bots. You're AI-friendly!",
+                    "You can still improve by providing structured data (schema.org) for better AI comprehension.",
+                    "Add clear content usage terms if you want to allow or limit AI training use."
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/domainnamedata": {
+      "get": {
+        "summary": "Domain Data",
+        "tags": [
+          "Domain Intelligence"
+        ],
+        "description": "Get domain data like WHOIS details and expiry information for a specific domain.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Domain to check",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "age": {
+                    "domainAge": "4 Years, 264 Days",
+                    "createdDate": "6th-Nov-2020",
+                    "updatedDate": "6th-Nov-2024",
+                    "expiredDate": "6th-Nov-2025"
+                  },
+                  "whois": "Domain Name: CODECONIA.COM\r\nRegistry Domain ID: 2570666541_DOMAIN_COM-VRSN\r\nRegistrar WHOIS Server: whois.hostinger.com\r\n"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/loadingspeeddata": {
+      "get": {
+        "tags": [
+          "On Page SEO"
+        ],
+        "summary": "Speed Check",
+        "description": "Check website loading speed metrics and get suggestions to improve performance.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or full URL to test",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "data": {
+                    "url": "http://codeconia.com/",
+                    "http_code": 301,
+                    "total_time": 0.048798,
+                    "namelookup_time": 0.020789,
+                    "connect_time": 0.02602,
+                    "starttransfer_time": 0.048727,
+                    "redirect_url": "https://codeconia.com/",
+                    "primary_ip": "104.21.76.120",
+                    "http_version": 2,
+                    "total_time_us": 48798
+                  },
+                  "speed": {
+                    "url": "https://codeconia.com/",
+                    "timing": 48,
+                    "score": 86,
+                    "warning": "- The page may not be loading as expected because your test URL (http://codeconia.com/) was redirected to https://codeconia.com/. Try testing the second URL directly."
+                  },
+                  "audit": [
+                    {
+                      "title": "Speed Index",
+                      "description": "Speed Index shows how quickly the contents of a page are visibly populated.",
+                      "score": 68,
+                      "displayValue": "1.9 s"
+                    },
+                    {
+                      "title": "Largest Contentful Paint",
+                      "description": "Largest Contentful Paint marks the time at which the largest text or image is painted.",
+                      "score": 59,
+                      "displayValue": "2.1 s"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/tools/domainsearchsingle": {
+      "get": {
+        "tags": [
+          "Domain Intelligence"
+        ],
+        "summary": "Domain Availability Checker (Single TLD)",
+        "description": "Check domain availability for a single TLD. Supports thousands of TLDs. Data is updated in real time.",
+        "parameters": [
+          {
+            "name": "domain",
+            "in": "query",
+            "description": "Domain keyword/name without TLD",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "getecz"
+            }
+          },
+          {
+            "name": "tld",
+            "in": "query",
+            "description": "Single TLD to check (without dot)",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "domain": "getecz",
+                    "tld": "com",
+                    "status": "Taken"
+                  }
+                ]
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/tools/domainsearchmulti": {
+      "get": {
+        "tags": [
+          "Domain Intelligence"
+        ],
+        "summary": "Domain Availability Checker (Multi TLD)",
+        "description": "Check domain availability for multiple TLDs in a single request. Supports thousands of TLDs. Data is updated in real time.",
+        "parameters": [
+          {
+            "name": "domain",
+            "in": "query",
+            "description": "Domain keyword/name without TLD",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "getecz"
+            }
+          },
+          {
+            "name": "tlds",
+            "in": "query",
+            "description": "Comma-separated list of TLDs (without dots)",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "com,net,org,in,us,uk"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "domain": "getecz",
+                    "tld": "uk",
+                    "status": "Available"
+                  },
+                  {
+                    "domain": "getecz",
+                    "tld": "net",
+                    "status": "Available"
+                  },
+                  {
+                    "domain": "getecz",
+                    "tld": "in",
+                    "status": "Available"
+                  },
+                  {
+                    "domain": "getecz",
+                    "tld": "us",
+                    "status": "Available"
+                  },
+                  {
+                    "domain": "getecz",
+                    "tld": "com",
+                    "status": "Taken"
+                  },
+                  {
+                    "domain": "getecz",
+                    "tld": "org",
+                    "status": "Available"
+                  }
+                ]
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/tools/comdomaingenerator": {
+      "get": {
+        "tags": [
+          "Domain Intelligence"
+        ],
+        "summary": ".com Available Names Generator",
+        "description": "Generate available .com domain name ideas using a keyword.",
+        "parameters": [
+          {
+            "name": "domain",
+            "in": "query",
+            "description": "Keyword to generate domain ideas from",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "getecz"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "keyword": "getecz",
+                    "generated": "Wiregetecz",
+                    "newdomain": "Wiregetecz.com"
+                  },
+                  {
+                    "keyword": "getecz",
+                    "generated": "geteczZone",
+                    "newdomain": "geteczZone.com"
+                  },
+                  {
+                    "keyword": "getecz",
+                    "generated": "Addgetecz",
+                    "newdomain": "Addgetecz.com"
+                  },
+                  {
+                    "keyword": "getecz",
+                    "generated": "geteczRiot",
+                    "newdomain": "geteczRiot.com"
+                  }
+                ]
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/youtube/taggenerator": {
+      "get": {
+        "tags": [
+          "Youtube APIs"
+        ],
+        "summary": "YouTube Tag Generator",
+        "description": "Generate relevant YouTube tags for a video based on a keyword using AI/ML matching.",
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "description": "Keyword or topic to generate tags for",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "email marketing"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "query": "email marketing",
+                  "tags": [
+                    "email marketing",
+                    "emails marketing",
+                    "emailing marketing",
+                    "marketing email",
+                    "marketing emails",
+                    "email for marketing",
+                    "emails for marketing",
+                    "email marketing emails",
+                    "platforms for email marketing",
+                    "email marketing platform",
+                    "email marketing platforms",
+                    "marketing email platforms",
+                    "email marketing jobs",
+                    "email marketing job",
+                    "marketing email jobs",
+                    "jobs in email marketing",
+                    "jobs for email marketing",
+                    "email marketing careers",
+                    "careers in email marketing",
+                    "email marketing positions"
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/youtube/keywordresearch": {
+      "get": {
+        "tags": [
+          "Youtube APIs"
+        ],
+        "summary": "YouTube Keyword Research",
+        "description": "Fetch accurate YouTube keyword data including monthly search volume, competition score, difficulty, and overall ranking score.",
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "description": "Keyword or topic to analyze on YouTube",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "email marketing"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "exact_keyword": [
+                    {
+                      "keyword": "email marketing",
+                      "monthlysearch": 229164,
+                      "competition_score": 56,
+                      "difficulty": "High",
+                      "overallscore": 66
+                    }
+                  ],
+                  "related_keywords": [
+                    {
+                      "keyword": "email marketing tips",
+                      "monthlysearch": 2611,
+                      "competition_score": 53,
+                      "difficulty": "High",
+                      "overallscore": 50,
+                      "last_update": "2025-08-08 02:00:09"
+                    },
+                    {
+                      "keyword": "email marketing complete guide",
+                      "monthlysearch": 1486,
+                      "competition_score": 40,
+                      "difficulty": "Medium",
+                      "overallscore": 52,
+                      "last_update": "2025-08-08 02:00:09"
+                    },
+                    {
+                      "keyword": "hubspot crm demo",
+                      "monthlysearch": 1540,
+                      "competition_score": 34,
+                      "difficulty": "Medium",
+                      "overallscore": 55,
+                      "last_update": "2025-08-08 02:00:09"
+                    },
+                    {
+                      "keyword": "ecommerce email marketing",
+                      "monthlysearch": 2407,
+                      "competition_score": 27,
+                      "difficulty": "Medium",
+                      "overallscore": 60,
+                      "last_update": "2025-08-08 02:00:09"
+                    },
+                    {
+                      "keyword": "increase sales with email marketing",
+                      "monthlysearch": 0,
+                      "competition_score": 14,
+                      "difficulty": "Low",
+                      "overallscore": 35,
+                      "last_update": "2025-08-08 02:00:09"
+                    },
+                    {
+                      "keyword": "email marketing for beginners",
+                      "monthlysearch": 18003,
+                      "competition_score": 37,
+                      "difficulty": "Medium",
+                      "overallscore": 63,
+                      "last_update": "2025-08-08 02:00:09"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/backlinkdata": {
+      "get": {
+        "tags": [
+          "Backlink Analysis"
+        ],
+        "summary": "Backlink Lists",
+        "description": "Get backlink analysis including backlink counts, referring domains, and link quality metrics.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or URL to analyze backlinks",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "counts": {
+                    "backlinks": {
+                      "total": 43,
+                      "doFollow": 19,
+                      "fromHomePage": 0,
+                      "doFollowFromHomePage": 0,
+                      "text": 32,
+                      "toHomePage": 25
+                    },
+                    "domains": {
+                      "total": 29,
+                      "doFollow": 17,
+                      "fromHomePage": 0,
+                      "toHomePage": 21
+                    }
+                  },
+                  "backlinks": [
+                    {
+                      "url_from": "https://webrankdirectory.com/most-visited-site-47/",
+                      "url_to": "https://codeconia.com/",
+                      "anchor": "codeconia.com",
+                      "nofollow": true,
+                      "image": false,
+                      "domain_inlink_rank": 71,
+                      "first_seen": "2024-05-18",
+                      "last_visited": "2024-12-09"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/newbacklinks": {
+      "get": {
+        "tags": [
+          "Backlink Analysis"
+        ],
+        "summary": "New Backlinks",
+        "description": "Fetch newly discovered backlinks with link source, anchor text, and link quality metrics.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "backlinks": [
+                    {
+                      "url_from": "https://urls-shortener.eu/share/2421620",
+                      "url_to": "https://codeconia.com/",
+                      "anchor": "codeconia.com",
+                      "nofollow": true,
+                      "image": false,
+                      "domain_inlink_rank": 63,
+                      "first_seen": "2025-07-25",
+                      "last_visited": "2025-07-25"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/creditbalance": {
+      "get": {
+        "tags": [
+          "VebAPI Insights"
+        ],
+        "summary": "VebAPI Credit Balance",
+        "description": "Check your remaining VebAPI request credit balance.",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "credits": 42
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/poorbacklinks": {
+      "get": {
+        "tags": [
+          "Backlink Analysis"
+        ],
+        "summary": "Poor Backlinks",
+        "description": "Fetch low-quality backlinks for a website with link quality metrics.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "backlinks": [
+                    {
+                      "url_from": "https://example.com/spam-page",
+                      "url_to": "https://codeconia.com/",
+                      "title": "Spam link page",
+                      "anchor": "codeconia.com",
+                      "nofollow": true,
+                      "image": false,
+                      "image_source": "",
+                      "inlink_rank": 0,
+                      "domain_inlink_rank": 5,
+                      "first_seen": "2025-07-01",
+                      "last_visited": "2025-07-25"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/referraldomains": {
+      "get": {
+        "tags": [
+          "Backlink Analysis"
+        ],
+        "summary": "Referral Domains",
+        "description": "Get referral domains for a website including backlink counts and domain rank metrics.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "referrers": [
+                    {
+                      "refdomain": "quabr.com",
+                      "backlinks": 4,
+                      "dofollow_backlinks": 0,
+                      "first_seen": "2021-12-14",
+                      "domain_inlink_rank": 31
+                    },
+                    {
+                      "refdomain": "dev.to",
+                      "backlinks": 2,
+                      "dofollow_backlinks": 2,
+                      "first_seen": "2021-09-22",
+                      "domain_inlink_rank": 91
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/seo/topsearchkeywords": {
+      "get": {
+        "tags": [
+          "Backlink Analysis"
+        ],
+        "summary": "Top Search Keywords",
+        "description": "Get top search keywords for a website including ranking, volume, and SEO click metrics.",
+        "parameters": [
+          {
+            "name": "website",
+            "in": "query",
+            "description": "Website domain or URL to analyze",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "codeconia.com"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "keywords": [
+                    {
+                      "countryCode": "us",
+                      "keyword": "instapy",
+                      "topRankedUrl": "https://codeconia.com/how-to-create-instagram-bot-with-instapy/",
+                      "rank": 19,
+                      "rankChange": 0,
+                      "searchVolume": 2000,
+                      "rankingDifficulty": 7,
+                      "seoClicks": 20,
+                      "seoClicksChange": 0,
+                      "totalMonthlyClicks": 1800,
+                      "broadCostPerClick": null,
+                      "phraseCostPerClick": null,
+                      "exactCostPerClick": null,
+                      "paidCompetitors": 0,
+                      "rankingHomepages": 2
+                    },
+                    {
+                      "countryCode": "us",
+                      "keyword": "youtube api tutorial javascript",
+                      "topRankedUrl": "https://codeconia.com/how-to-get-youtube-subscriber-views-and-video-counts-using-javascript/",
+                      "rank": 5,
+                      "rankChange": null,
+                      "searchVolume": 420,
+                      "rankingDifficulty": 22,
+                      "seoClicks": 14,
+                      "seoClicksChange": null,
+                      "totalMonthlyClicks": 420,
+                      "broadCostPerClick": null,
+                      "phraseCostPerClick": null,
+                      "exactCostPerClick": null,
+                      "paidCompetitors": 0,
+                      "rankingHomepages": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    },
+    "/websitescreenshot": {
+      "post": {
+        "tags": [
+          "Website Screenshots"
+        ],
+        "summary": "Website Screenshot API",
+        "description": "Capture website screenshots for SEO reports, compliance verification, monitoring, and archiving.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "jobId": "test-job-00012123",
+                "url": "https://vebapi.com",
+                "viewport": {
+                  "width": 1920,
+                  "height": 1080
+                },
+                "fullPage": true,
+                "format": "png",
+                "waitUntil": "domcontentloaded",
+                "blockCookieBanners": true,
+                "hideOverlays": true,
+                "loadLazy": true,
+                "scrollStep": 800,
+                "scrollDelayMs": 200,
+                "maxScrolls": 30,
+                "hideSelectors": "#intercom-container,.drift-frame",
+                "hideMode": "both",
+                "delayMs": 4000
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Screenshot captured successfully",
+            "content": {
+              "application/json": {
+                "example": {
+                  "jobId": "test-job-00012123",
+                  "contentType": "image/png",
+                  "bytes": 1763986,
+                  "url": "https://screenshotapi.vebapi.com/cdn/79b8xxxxxxxxxxxxxxxxxxxxxxx2a3f3.png",
+                  "expiresAt": "2025-12-31T19:37:39.512Z",
+                  "expiresInSeconds": 86400
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request payload"
+          },
+          "401": {
+            "description": "Invalid or missing API key"
+          },
+          "429": {
+            "description": "Rate limit exceeded"
+          },
+          "500": {
+            "description": "Screenshot rendering failed"
+          }
+        },
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ]
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-API-KEY"
+      }
+    }
+  }
+}

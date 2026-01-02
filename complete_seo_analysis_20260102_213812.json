@@ -1,0 +1,696 @@
+{
+  "vebapi": {
+    "page_analysis": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "ai_search_analyzer": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "loading_speed": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "domain_data": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "backlink_data": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "new_backlinks": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "referral_domains": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "ai_seo_crawler": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "top_keywords": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "poor_backlinks": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    },
+    "keyword_density": {
+      "success": true,
+      "data": {
+        "error": "No credits left"
+      }
+    }
+  },
+  "rapidapi_seo": {
+    "seox_keywords": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_links": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_sitemap": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_seo": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_ssl": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "seox_dns": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/vitalsx-apis-vitalsx-apis-default/api/seox"
+      }
+    },
+    "ai_scraper": {
+      "success": true,
+      "data": {
+        "error": "schema object is required with at least one key-instruction pair"
+      }
+    },
+    "moz_dapa": {
+      "success": true,
+      "data": {
+        "domain_authority": 1,
+        "external_nofollow_urls_to_url": "-1",
+        "external_urls_to_url": 0,
+        "page_authority": 1,
+        "spam_score": -1
+      }
+    },
+    "seo_keyword_research": {
+      "success": true,
+      "data": {
+        "error": "API block not found"
+      }
+    }
+  },
+  "rapidapi_keywords": {
+    "semrush_volume": {
+      "success": true,
+      "data": {
+        "Keyword Overview": {
+          "global": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "1.3k",
+              "CPC": "$0.56",
+              "Keyword Difficulty %": "76%",
+              "Keyword Difficulty Label": "Hard",
+              "Keyword Difficulty Recommendation": "Ranking in GLOBAL will require 617+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Keyword Intent": "Informational, Commercial",
+              "intent_signals": {},
+              "intent_raw_scores": {
+                "Informational": 0.04,
+                "Navigational": 0.0,
+                "Transactional": 0.01,
+                "Investigational": 0.0,
+                "Commercial": 0.02,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "1.9k"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "2.4k"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "2.9k"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "2.9k"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "2.4k"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "2.4k"
+                }
+              ]
+            }
+          ],
+          "other": "393",
+          "DK": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "880",
+              "CPC": "$5.00",
+              "Keyword Difficulty %": "53%",
+              "Keyword Difficulty Label": "Medium",
+              "Keyword Difficulty Recommendation": "Ranking in DK will require 377+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "High",
+              "Competitive Density Score": 0.93,
+              "Keyword Intent": "Informational",
+              "intent_raw_scores": {
+                "Informational": 0.02,
+                "Navigational": 0.0,
+                "Transactional": 0.01,
+                "Investigational": 0.0,
+                "Commercial": 0.01,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "590"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "880"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "1.6k"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "1.0k"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "1.3k"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "720"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "590"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "1.0k"
+                }
+              ],
+              "serp_results": [],
+              "serp_features": {
+                "dominant_feature": "Standard Organic",
+                "feature_breakdown": {}
+              },
+              "content_gap_score": 0,
+              "ctr_potential_score": 0,
+              "combined_intent_distribution": {
+                "Informational": 0.3,
+                "Navigational": 0.0,
+                "Transactional": 0.15,
+                "Investigational": 0.0,
+                "Commercial": 0.15,
+                "Brand": 0.0
+              },
+              "monetization_score_0_to_10": 3.0
+            }
+          ],
+          "UK": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "10",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "59%",
+              "Keyword Difficulty Label": "Hard",
+              "Keyword Difficulty Recommendation": "Ranking in UK will require 679+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Medium",
+              "Competitive Density Score": 0.46,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "10"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "10"
+                }
+              ]
+            }
+          ],
+          "US": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "10",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "32%",
+              "Keyword Difficulty Label": "Medium",
+              "Keyword Difficulty Recommendation": "Ranking in US will require 320+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "0"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "0"
+                }
+              ]
+            }
+          ],
+          "IN": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "7",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "17%",
+              "Keyword Difficulty Label": "Easy",
+              "Keyword Difficulty Recommendation": "Ranking in IN will require 76+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": [
+                {
+                  "month": null,
+                  "year": 2024,
+                  "searches": "10"
+                },
+                {
+                  "month": "February",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "March",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "April",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "May",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "June",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "July",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "August",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "September",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "October",
+                  "year": 2025,
+                  "searches": "0"
+                },
+                {
+                  "month": "November",
+                  "year": 2025,
+                  "searches": "10"
+                },
+                {
+                  "month": "December",
+                  "year": 2025,
+                  "searches": "10"
+                }
+              ]
+            }
+          ],
+          "AU": [
+            {
+              "keyword": "silke sovemaske",
+              "searche volume": "0",
+              "CPC": "$0.01",
+              "Keyword Difficulty %": "16%",
+              "Keyword Difficulty Label": "Easy",
+              "Keyword Difficulty Recommendation": "Ranking in AU will require 95+ strong backlinks and a solid local SEO strategy focused on trust and relevance.",
+              "Competitive Density": "Low",
+              "Competitive Density Score": 0.05,
+              "Keyword Intent": "",
+              "intent_raw_scores": {
+                "Informational": 0.0,
+                "Navigational": 0.0,
+                "Transactional": 0.0,
+                "Investigational": 0.0,
+                "Commercial": 0.0,
+                "Brand": 0.0
+              },
+              "Trend": []
+            }
+          ]
+        },
+        "Last update": "2025-12-24"
+      }
+    },
+    "semrush_research": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the DAILY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/kakamereddy/api/semrush-keyword-magic-tool"
+      }
+    },
+    "semrush_questions": {
+      "success": true,
+      "data": {
+        "message": "You have exceeded the DAILY quota for Requests on your current plan, BASIC. Upgrade your plan at https://rapidapi.com/kakamereddy/api/semrush-keyword-magic-tool"
+      }
+    },
+    "g_keyinsight": {
+      "success": true,
+      "data": {
+        "message": "Endpoint '/api/v1/keyword-suggestions' does not exist"
+      }
+    }
+  },
+  "rapidapi_other": {
+    "historical_traffic": {
+      "success": true,
+      "data": {
+        "message": "API doesn't exists"
+      }
+    },
+    "seo_audit": {
+      "success": true,
+      "data": {
+        "message": "Endpoint '/seo-audit' does not exist"
+      }
+    },
+    "google_rank": {
+      "success": true,
+      "data": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "website_utilities": {
+      "success": true,
+      "data": {
+        "host": "skimplybeyond.dk",
+        "port": 443,
+        "time": "91.539",
+        "success": false,
+        "error": "getaddrinfo ENOTFOUND skimplybeyond.dk"
+      }
+    },
+    "google_trends": {
+      "success": true,
+      "data": {
+        "message": "You are not subscribed to this API."
+      }
+    }
+  },
+  "onboarding": {
+    "my_orders": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "all_products": {
+      "success": true,
+      "data": {
+        "message": "Missing required parameters"
+      }
+    },
+    "category_products": {
+      "success": true,
+      "data": {
+        "message": "Missing required parameters"
+      }
+    },
+    "categories": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "product_by_id": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "create_product": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "delete_product": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    }
+  }
+}

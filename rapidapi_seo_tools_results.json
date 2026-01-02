@@ -1,0 +1,8 @@
+{
+  "domain": "awario.com",
+  "endpoint": "historical-website-traffic",
+  "result": {
+    "success": true,
+    "data": "{'organic': [{'year': 2025, 'month': 12, 'search_volume': 47623}, {'year': 2025, 'month': 11, 'search_volume': 43331}, {'year': 2025, 'month': 10, 'search_volume': 43162}, {'year': 2025, 'month': 9, 'search_volume': 53653}, {'year': 2025, 'month': 8, 'search_volume': 58377}, {'year': 2025, 'month': 7, 'search_volume': 58081}, {'year': 2025, 'month': 6, 'search_volume': 44403}, {'year': 2025, 'month': 5, 'search_volume': 44524}, {'year': 2025, 'month': 4, 'search_volume': 44390}, {'year': 2025, 'month': 3, 'search_volume': 47920}, {'year': 2025, 'month': 2, 'search_volume': 84688}, {'year': 2025, 'month': 1, 'search_volume': 90166}], 'paid': [{'year': 2025, 'month': 12, 'search_volume': 0}, {'year': 2025, 'month': 11, 'search_volume': 0}, {'year': 2025, 'month': 10, 'search_volume': 0}, {'year': 2025, 'month': 9, 'search_volume': 0}, {'year': 2025, 'month': 8, 'search_volume': 0}, {'year': 2025, 'month': 7, 'search_volume': 0}, {'year': 2025, 'month': 6, 'search_volume': 0}, {'year': 20"
+  }
+}

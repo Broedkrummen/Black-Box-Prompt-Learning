@@ -1,0 +1,8 @@
+{
+  "keyword": "seo",
+  "endpoint": "g-keyinsight",
+  "result": {
+    "success": true,
+    "data": "[{'text': 'seo', 'volume': 823000, 'competition_level': 'LOW', 'competition_index': 17, 'low_bid': 0.594575, 'high_bid': 8.029999, 'trend': [{'month': 'December', 'year': 2025, 'value': 673000}, {'month': 'November', 'year': 2025, 'value': 823000}, {'month': 'October', 'year': 2025, 'value': 823000}, {'month': 'September', 'year': 2025, 'value': 1000000}, {'month': 'August', 'year': 2025, 'value': 823000}, {'month': 'July', 'year': 2025, 'value': 823000}, {'month': 'June', 'year': 2025, 'value': 823000}, {'month': 'May', 'year': 2025, 'value': 823000}, {'month': 'April', 'year': 2025, 'value': 673000}, {'month': 'March', 'year': 2025, 'value': 823000}, {'month': 'February', 'year': 2025, 'value': 823000}, {'month': 'January', 'year': 2025, 'value': 823000}]}, {'text': 'seo services', 'volume': 165000, 'competition_level': 'LOW', 'competition_index': 5, 'low_bid': 0.763071, 'high_bid': 22.0, 'trend': [{'month': 'December', 'year': 2025, 'value': 74000}, {'month': 'November', 'year': 202"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "onboarding": {
+    "my_orders": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "all_products": {
+      "success": true,
+      "data": {
+        "message": "Missing required parameters"
+      }
+    },
+    "category_products": {
+      "success": true,
+      "data": {
+        "message": "Missing required parameters"
+      }
+    },
+    "categories": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "product_by_id": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "create_product": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    },
+    "delete_product": {
+      "success": true,
+      "data": {
+        "messages": "The API is unreachable, please contact the API provider",
+        "info": "Your Client (working) ---> Gateway (working) ---> API (not working)"
+      }
+    }
+  }
+}
