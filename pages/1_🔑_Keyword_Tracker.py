@@ -423,31 +423,82 @@ if st.session_state.tracked_keywords:
                                 st.success("✅ Ahrefs data retrieved")
                                 ahrefs_data = ahrefs_result['data']
                                 
-                                # Display Ahrefs metrics
+                                # Check if data is nested
+                                if 'data' in ahrefs_data:
+                                    ahrefs_data = ahrefs_data['data']
+                                
+                                # Display Ahrefs metrics in a clean table
                                 st.markdown("#### 🔍 Ahrefs Keyword Metrics")
-                                acol1, acol2, acol3, acol4 = st.columns(4)
                                 
-                                if 'keyword_difficulty' in ahrefs_data:
-                                    acol1.metric("Keyword Difficulty", ahrefs_data['keyword_difficulty'])
-                                if 'search_volume' in ahrefs_data:
-                                    acol2.metric("Search Volume", f"{ahrefs_data['search_volume']:,}")
-                                if 'cpc' in ahrefs_data:
-                                    acol3.metric("CPC", f"${ahrefs_data['cpc']:.2f}")
-                                if 'clicks' in ahrefs_data:
-                                    acol4.metric("Clicks", f"{ahrefs_data['clicks']:,}")
+                                # Create a DataFrame for better display
+                                metrics_data = []
                                 
-                                # Additional metrics
-                                if 'return_rate' in ahrefs_data or 'parent_topic' in ahrefs_data:
-                                    st.markdown("#### 📊 Additional Metrics")
-                                    bcol1, bcol2 = st.columns(2)
-                                    if 'return_rate' in ahrefs_data:
-                                        bcol1.metric("Return Rate", f"{ahrefs_data['return_rate']:.1f}%")
-                                    if 'parent_topic' in ahrefs_data:
-                                        bcol2.info(f"**Parent Topic:** {ahrefs_data['parent_topic']}")
+                                # Map common field names
+                                field_mapping = {
+                                    'keyword': 'Keyword',
+                                    'searchVolume': 'Search Volume',
+                                    'search_volume': 'Search Volume',
+                                    'clicks': 'Clicks',
+                                    'cpc': 'CPC ($)',
+                                    'difficulty': 'Difficulty',
+                                    'keyword_difficulty': 'Difficulty',
+                                    'globalSearchVolume': 'Global Volume',
+                                    'global_search_volume': 'Global Volume',
+                                    'trafficPotential': 'Traffic Potential',
+                                    'traffic_potential': 'Traffic Potential',
+                                    'return_rate': 'Return Rate (%)',
+                                    'parent_topic': 'Parent Topic'
+                                }
                                 
-                                # Show full data
-                                with st.expander("View Full Ahrefs Data"):
-                                    st.json(ahrefs_data)
+                                for key, value in ahrefs_data.items():
+                                    if key in field_mapping:
+                                        display_name = field_mapping[key]
+                                        
+                                        # Format values
+                                        if isinstance(value, (int, float)):
+                                            if 'volume' in key.lower() or 'clicks' in key.lower() or 'potential' in key.lower():
+                                                formatted_value = f"{value:,}"
+                                            elif 'cpc' in key.lower():
+                                                formatted_value = f"${value:.2f}"
+                                            elif 'rate' in key.lower():
+                                                formatted_value = f"{value:.1f}%"
+                                            else:
+                                                formatted_value = str(value)
+                                        else:
+                                            formatted_value = str(value)
+                                        
+                                        metrics_data.append({
+                                            'Metric': display_name,
+                                            'Value': formatted_value
+                                        })
+                                
+                                if metrics_data:
+                                    # Display as a nice table
+                                    metrics_df = pd.DataFrame(metrics_data)
+                                    st.dataframe(
+                                        metrics_df,
+                                        use_container_width=True,
+                                        hide_index=True
+                                    )
+                                    
+                                    # Also show key metrics as metric cards
+                                    acol1, acol2, acol3, acol4 = st.columns(4)
+                                    
+                                    for item in metrics_data[:4]:  # Show first 4 as cards
+                                        if item['Metric'] == 'Search Volume':
+                                            acol1.metric(item['Metric'], item['Value'])
+                                        elif item['Metric'] == 'Clicks':
+                                            acol2.metric(item['Metric'], item['Value'])
+                                        elif item['Metric'] == 'CPC ($)':
+                                            acol3.metric(item['Metric'], item['Value'])
+                                        elif item['Metric'] == 'Difficulty':
+                                            acol4.metric(item['Metric'], item['Value'])
+                                else:
+                                    st.info("No metrics available in the response")
+                                
+                                # Show full raw data in expander
+                                with st.expander("View Raw JSON Data"):
+                                    st.json(ahrefs_result['data'])
                             else:
                                 st.warning("⚠️ Could not fetch Ahrefs data for this keyword")
                     
